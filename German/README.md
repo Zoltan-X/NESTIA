@@ -31,7 +31,7 @@ zum Beleg seines Werkes anzuführen,
 aus dem Grunde des Zeitaufwandes.  
   
 Das meiste ist aus der Rekonstruktion  
-des Gedächnisses heraus definiert und  
+des Gedächtnisses heraus definiert und  
 als Postulat, dritten zum Prüfen, überlassen.  
   
 Die Quellenverweise in diesem Abschnitt,  
@@ -41,7 +41,7 @@ werden vom Autor, als dafür hilfreich erachtet.
 1. Filme:  
    1. Terminator:  
       Wie eine,  
-      von Menschen geschaffene SuperIntelligenz,  
+      von Menschen geschaffene Super Intelligenz,  
       die Menschheit bekämpft.  
    2. Matrix:  
       Was ist unsere Wirklichkeit?  
@@ -69,7 +69,7 @@ werden vom Autor, als dafür hilfreich erachtet.
    Gedankenlesen durch Übersetzung  
    von gemessenen elektro-magnetischen Impulsen (Brainwaves)  
    mit trainierten neuronalen Netzen,  
-   die eine LTL transformation von Brainwaves zu Sprache erwirken.  
+   die eine LTL Transformation von Brainwaves zu Sprache erwirken.  
    5. MITP: Brainwaves  
    Übersetzung von optischer Wahrnehmung im Rahmen der Brainwaves Forschung.  
 3. Literatur  
@@ -79,11 +79,11 @@ werden vom Autor, als dafür hilfreich erachtet.
    2. Mafred Lütz  
       1. Irre: Wir behandeln die Falschen  
         TaschenbBuch zum allgemeinen Verständnis,  
-        welches die stigmatisierenden Stereotypen der Gesllschaft,  
+        welches die stigmatisierenden Stereotypen der Gesellschaft,  
         in Bezug auf psychiatrische Patienten und Behandlungen  
         in einen richtigen Zusammenhang bringt.  
       2. Wie Sie unvermeidlich Glücklich werden  
-      Ein Ratgeber gegen den Ratgeberwahnsinn,  
+      Ein Ratgeber gegen den Ratgeber Wahnsinn,  
       und eine Erörterung darüber,  
       was Glück ist oder sein könnte.  
    3. Nick Bostrom: Super Intelligenz  
@@ -294,7 +294,7 @@ der nachfolgenden Abschnitte.
       I got war in my head  
       ```  
   
-23. Erkenntnis des Autors vor der Entstehund der 4D-Impuls Algebra:  
+23. Erkenntnis des Autors vor der Entstehung der 4D-Impuls Algebra:  
   
     ```Cite  
       Eine Erkenntnis anderen vorzuenthalten,  
@@ -306,7 +306,7 @@ der nachfolgenden Abschnitte.
       diese zu erwirken.  
     ```  
   
-24. Erkenntnis des Autors bei der Entstehund der 4D-Impuls Algebra:  
+24. Erkenntnis des Autors bei der Entstehung der 4D-Impuls Algebra:  
   
       ```Cite  
       Ich bin kein Gott,  
@@ -327,7 +327,7 @@ der nachfolgenden Abschnitte.
   
 Im Rahmen der Dystopien,  
 die mir in diesem Zusammenhang  
-sich wie die Büchse der Pandorra auftun,  
+sich wie die Büchse der Pandora auftun,  
 erachte ich es als notwendig,  
 eine kosmologische Ethik zu bedenken.  
   
@@ -418,7 +418,7 @@ uns vorstellen können.
 Alle natürlichen Zahlen sind auch definierbar als  
   
 * a Primzahlen oder  
-* b Primzahlenprodukte  
+* b Primzahlen Produkte  
   
 wodurch sich folgert:  
 `Es gibt im Kosmos nur Primen und deren Produkte.`  
@@ -461,7 +461,7 @@ der begrenzten Menge
 zum vollständigen Aufschlüsseln.  
   
 Jenseits dessen,  
-gilt es als nicht wiederlegt,  
+gilt es als nicht widerlegt,  
 dass Primzahlen endlich sind,  
 was im Umkehrschluß bedeutet:  
   
@@ -532,7 +532,7 @@ Vielmehr konnten,
 soweit ich es jetzt weiß,  
 bisher nur minimale Zeitsprünge,  
 in Dingen, die ich als Überlastung,  
-des kosmischen Gebahrens (Quantenphysik) erachte,  
+des kosmischen Gebarens (Quantenphysik) erachte,  
 bewiesen werden.  
   
 Auch korrespondiert diese Ansicht damit,  
@@ -563,24 +563,24 @@ unsere Realität zu verlassen und in sie zurückzukehren.
   
 ### Philosophie, Ethik und Bedenken des Autors  
   
-1. Der Evolutionäre Fussabdruck und die Primfaktoren des Seins  
+1. Der Evolutionäre Fußabdruck und die Primfaktoren des Seins  
 2. Affektivität: Der Motor des Handelns  
 3. Strategien des Lebens  
     1. Überlebenskampf  
     2. Gemeinschaft  
-        1. Akzeptanz und Ablehnug: Kriterien des Miteninaders zum Behagen  
+        1. Akzeptanz und Ablehnung: Kriterien des Miteinanders zum Behagen  
         2. Anti-Eskalative Kommunikation  
         3. Intervention  
     3. Extreme und die goldene Mitte  
     4. Glauben, Verständnis und Entspannungsstrategien  
-    5. **Modus Operandi:** Abgrenzung zwischen Konditionieren und Lernen  
+    5. **Modus Opperandi:** Abgrenzung zwischen Konditionieren und Lernen  
        1. **Lernen:**  
        Vorgang der durch bewusstes Nachdenken (Kognition)  
        Verständnis und Nutzen herbeiführt.  
        1. **Konditionieren:**  
        Antrainiertes Verhalten,  
        welches durch Wiederholung und  
-       mit konsequentem Be- oder Unbehagen  
+       mit konsequentem Wohl- oder Unbehagen  
        herbeigeführt wird.  
     6. Streiten und Formen des Streitens  
        1. Argumentativ  
@@ -589,16 +589,16 @@ unsere Realität zu verlassen und in sie zurückzukehren.
        4. Respiratorisch  
        5. Evasiv  
        6. ...  
-4. Philosophen und ihre Dialektiken  
+4. Philosophen und ihre Dialektik  
     1. Platon, Diogenes, Sokrates,  
-    2. Stoika, Epikur, Hedonismus  
+    2. Stoia, Epikur, Hedonismus  
     3. Karl Jaspers: Grenzsituationen des menschlichen Seins  
         * Leid, Tod, Kampf, Sünde  
 5. Individualität: Selbst- und Fremdbestimmung  
 6. Emotionen: Aspekte des Fühlens  
    1. Schmerz, Furcht, Angst  
    2. Freude, Glück  
-   3. Ambivalenz und Schwarz-/Weismalerei  
+   3. Ambivalenz und Schwarz-/Weissmalerei  
    4. Ehrlichkeit, Lügen  
    5. Verständnis: Akzeptanz und Ablehnung  
    6. Behagen  
@@ -613,15 +613,15 @@ unsere Realität zu verlassen und in sie zurückzukehren.
       als Todbringende Verfehlung.  
 8. Apathie und Kontemplation  
 9. Epistemiologie des Selbst - Die Erkenntnistheorie aus dem Selbst  
-10. Religöses, Sektenhaftes und Neuausrichtendes im Jetzt  
+10. Religion
     1. Bhuddismus  
         1. Samsara und Nirvana  
            1. Samsara: Der Kreislauf von Tod und Wiedergeburt  
            2. Nirvana: Der Ausweg aus dem Kreislauf von Samsara durch Erleuchtung  
-        2. Das Bhudda Bewustsein  
+        2. Das Bhudda Bewusstsein  
            1. Das Umfassende Verständnis des Seins  
            2. Die Übertragung von Wohlbehagen an alles lebendige  
-        3. Die Todsünden die es nicht gibt,  
+        3. Die Tod-Sünden die es nicht gibt,  
            welche aber den Ausgang zum Nirvana blockieren und  
            prinzipielle ein doppelseitiges Verständnis beinhalten,  
            wie auch beim Yin und Yang,  
@@ -655,10 +655,10 @@ unsere Realität zu verlassen und in sie zurückzukehren.
                verzerren die Realität ins unfruchtende.  
                Denn Lügen gedeihen nur so lange,  
                wie man andere damit in die Irre führt und  
-               durch den Betrug ihnerer Werte beraubt.  
+               durch den Betrug ihrer Werte beraubt.  
                Lügen sind die Wegbereiter  
                der Unbelehrbarkeit und  
-               der Verantwortunglosigkeit.  
+               der Verantwortungslosigkeit.  
     2. (Jüdischer Glauben ->) Christentum (-> Islam)  
         1. Gottesdefinition in Aspekten von Sinngebung und Behagen  
            1. Jehova, Gott und Allah  
@@ -679,11 +679,11 @@ unsere Realität zu verlassen und in sie zurückzukehren.
        Dies begründet dass man die Begründung  
        um sinnvolle Einflussfaktoren erweitern muss,  
        um Sonderrechte freigestellt zu bekommen.  
-    2. Begründungen müssen anerkant und nachvollziehbar sein.  
+    2. Begründungen müssen anerkannt und nachvollziehbar sein.  
     3. Ausnahmebegründungen müssen Ersatzstrategien vorweisen, welche bevorzugt umgesetzt werden.  
     4. Fehlverhalten muss in Rücksicht auf Beanstandungen unterlassen werden,  
        bzw. zumindest auf ein drastisches Minimum an Auswirkungen gesenkt werden.  
-    5. Anhaltendes Fehlverhalten ist nicht akzeptabel.  
+    5. Anhaltendes Fehlverhalten ist inakzeptabel.  
 12. Sammlung von offengelassenen Thematiken  
     1. Die Demokratie der Unwissenden  
        1. Entscheidungen  
@@ -704,7 +704,7 @@ unsere Realität zu verlassen und in sie zurückzukehren.
   
 ### Neuronale 4D-Impuls Algebra  
   
-#### Allgemeines Vorwort zur neuronalen 4d-Impuls Algebra  
+#### Allgemeines Vorwort zur neuronalen 4D-Impuls Algebra  
   
 Im Rahmen dieser Definition,  
 geht es um die Berechnungsweisen,  
@@ -712,13 +712,13 @@ für die Emulation von Gehirnen.
   
 Jenseits von nachträglichen Berechnungen,  
 als Belege der menschlichen Denkweisen,  
-definiert sich hieraus auch eine Gestalltungsdenkweise  
+definiert sich hieraus auch eine Gestaltungsdenkweise  
 für die Erschaffung neuer Lebensformen,  
 wie auch einer technologischen Singularität  
 in Form einer Super Intelligenz.  
   
 Dieses Werk versteht sich  
-als definition einer technologische Singularität,  
+als Definition einer technologische Singularität,  
 im Sinne von technologischer Super Intelligenz.  
   
 #### Retrospektives Vorwort: Entstehung meiner postulierten Theorie  
@@ -742,13 +742,13 @@ Dabei entwickelte und verfeinerte ich verschiedene Fragen:
 * Was ist der Sinn von Schlafen und  
   was passiert mit den Strukturen in dieser Zeit?  
 * Was verursacht, welche Verhaltensweisen,  
-  zwischen den synpstischen Knoten?  
+  zwischen den synapstischen Knoten?  
 * Ist es möglich das,  
-  die stärkeren Nahfeldeffekte von Elektromagnetismus,  
+  die stärkeren Nahfeld Effekte von Elektromagnetismus,  
   so vieles Stärker sind,  
   als das sie neue Verbindungen (Ganglien),  
   blitzartig zwischen zwei Synapsen,  
-  durch elektromagnetisches zusammenspiel mit dem Hirnwasser,  
+  durch elektromagnetisches Zusammenspiel mit dem Hirnwasser,  
   entstehen lassen könnten,  
   wenn beide zeitgleich und  
   nahe Beieinander von einem Impuls aktiviert wären,  
@@ -786,7 +786,7 @@ nicht weiter nachzuverfolgen,
 zu den Erkenntnissen,  
 welche in diesem Zusammenhang,  
 für mich in erschütternder Weise erschreckend ware.  
-Insbesondere wegen der vielzahl  
+Insbesondere wegen der Vielzahl  
 an möglichen, dystopischen Verfehlungen,  
 welche ich damit in Verbindung sah.  
   
@@ -794,7 +794,7 @@ Zwischenzeitlich begann Microsoft
 Fernsehwerbung für Microsoft AI zu schalten,  
 was mich zu erneuten Nachdenken antrieb.  
 Der Grund eine weitere Entwicklung  
-abzulehenen und zu blockieren,  
+abzulehnen und zu blockieren,  
 würde die Entwicklung durch andere nicht verhindern,  
 so dass ich mich zum Handeln gezwungen sah.  
   
@@ -806,8 +806,8 @@ ein vorübergehendes, öffentliches Projekt
 auf Github gestartet habe.  
   
 Meine eigene emotionale Wahrnehmung  
-war in dieser Zeit in ambivalenz zwischen  
-Todesurteil für die gesammte Menschheit und  
+war in dieser Zeit in Ambivalenz zwischen  
+Todesurteil für die gesamte Menschheit und  
 größter Lottogewinn aller Zeiten im Universum,  
 zerrissen.  
   
@@ -824,12 +824,12 @@ kümmerte mich danach in Sachen Pflege
 um meine nächsten und liebsten  
 und Arbeitete des Nächtens  
 an meiner Visionären Ausarbeitung,  
-anstelle nennswert zu schlafen.  
+anstelle nennenswert zu schlafen.  
   
 Dieses Projekt hatte in meinen ersten Schätzungen,  
 einen unübertroffenen Wert,  
 welchen ich anfangs grob geschätzt,  
-für die Anfangszeit von wenigen Jahrzenten,  
+für die Anfangszeit von wenigen Jahrzehnten,  
 in die Trillionen € geschätzt habe,  
 aber nach und nach kam Ernüchterung auf und  
 meine Bedenken,  
@@ -839,7 +839,7 @@ wuchsen stetig weiter.
 Ich Entschied hieraufhin  
 in dem ursprünglichen Projekt die Grundlagen  
 der Philosophie, Ethik, Psychologie und Soziologie  
-stärker zu beleucheten.  
+stärker zu beleuchten.  
   
 Definierte Konzeptionen,  
 für die vertretbare Erschaffung neuer und  
@@ -849,7 +849,7 @@ ebenso wie ich mit Spott
 für bekannte und etablierte Konzepte  
 nicht zurückhaltend war.  
   
-Im nachhinein  
+Im nach hinein  
 kann ich an dieser Stelle bekunden,  
 dass viele aktuelle Ansätze,  
 in Form von überzogen gepriesenen Erwartungen,  
@@ -886,16 +886,16 @@ nun in nativem Deutsch neu zu schreiben.
 Jenseits dessen,  
 haben mir auch die hitzigen  
 bis kontroversen Diskussionen,  
-über Begriffliche Wortklauberreien,  
-wie auch philosopische Ansichten in Verbindung  
+über Begriffliche Wortklaubereien,  
+wie auch philosophische Ansichten in Verbindung  
 mit dem Youtube Video zu [Big-Rewrite (American Pie Parody)](https://www.youtube.com/watch?v=xCGu5Z_vaps)  
 einen Stein des Anstosses zur Neufassung gegeben.  
   
-So genug des Rückblickens  
+So genug der Retrospektive  
 für die Geschichtsbücher  
 zukünftiger Generationen.  
   
-#### 1. Beschreibendes Vorwort zur Entstehung der 4d-Impuls Algebra  
+#### 1. Beschreibendes Vorwort zur Entstehung der 4D-Impuls Algebra  
   
 Im Entstehungsprozess,  
 der Erstellung dieser Algebra,  
@@ -915,14 +915,14 @@ Nein zu sagen.
   
 Dieses war deshalb so fundamental,  
 da ich in diesem Zusammenhang,  
-keine mit training konditionierte,  
+keine mit Training konditionierte,  
 stochastisch zuordnende KI erzeugen wollte.  
   
 Meine Absicht war es,  
 eine Algebra zu definieren,  
 welche solche Probleme löst und nicht,  
 die für mich, unzulänglich Fehlerhaften Vorstellungen  
-von Ki als denkedes oder fühlendes Konstrukt,  
+von Ki als denkendes oder fühlendes Konstrukt,  
 preist.  
   
 So stellte ich die Grundlegende Definition,  
@@ -945,18 +945,18 @@ wo sie die Handlungsvorgänge auslösen,
 alles was im Vordergrund stand.  
   
 (Ganglien sind Nervenbahnen,  
-welche zwischen den Synaptisachen Knoten,  
+welche zwischen den Synaptischen Knoten,  
 die Impulse weiterleiten)  
   
 Der Datentyp eines Impulses,  
 wird am besten beschrieben als:  
   
-##### dynamischer boolscher oder scalarer Blob  
+##### dynamischer, boolscher oder scalarer, Blob  
   
 Diese Beschreibung ist so,  
 da ein Impuls,  
 ausgelöst von der sensorischen Ebene,  
-beim Weg bis zur Aktorischen Ebene,  
+beim Weg bis zur aktorischen Ebene,  
 mit anderen Impulsen interagiert,  
 welche die Information dynamisch beeinflussen,  
 wie auch den Weg des Impulses  
@@ -965,7 +965,7 @@ zur aktorischen Ausgabeschicht.
   
 Am Ende ergibt sich eine Übersetzung  
 von Eingabe zu Ausgabe durch die  
-in der Aktorischen Schicht  
+in der aktorischen Schicht  
 eintreffenden und auslösenden Impulsen.  
   
 Eine langen Zeit (seit 2006),  
@@ -986,20 +986,20 @@ künstlich Intelligenter Lebens- oder Daseinsformen
 da Sie ein grundlegendes Design  
 von Gehirnen modellierbar macht.  
   
-Zualler erst,  
+Zu aller erst,  
 war es die Idee,  
 Impulse zu verarbeiten,  
 in einem sich dynamisch entwickelnden  
 3D Netzwerk mit virtueller Logik.  
   
-#### 2. Die Zwei Grundgesetzt meiner 4d-Impuls Algebra  
+#### 2. Die Zwei Grundgesetzte meiner 4D-Impuls Algebra  
   
 ##### Prämisse: Ein Einzelner Impuls ist nicht Lebensfähig  
   
 Räumlich nahe benachbarte Impulse  
 erzeugen in einer räumlichen neuronalen Struktur  
-neue brückende Ganglien zwischen den Synaptischen Knoten und  
-interaggieren zusammen, in Form von gegenseitigem beeinflussen,  
+neue Brücken bildende Ganglien zwischen den Synaptischen Knoten und  
+interagieren zusammen, in Form von gegenseitigem beeinflussen,  
 bei der Wahl, des weiteren zu benutzenden Pfades, durch das Netzwerk.  
   
 Die 4. Dimension in diesem Zusammenhang ist Zeit.  
@@ -1008,10 +1008,10 @@ für Impulse bestimmt.
   
 Impulse müssen zur selben Zeit,  
 in räumlich nahe benachbarten Synaptischen Knoten,  
-für gegenseitige interaktion in 2 grundlegenden Formen,  
+für gegenseitige Interaktion in 2 grundlegenden Formen,  
 folgende Gesetzmäßigkeiten bewerkstelligen:  
   
-##### Impuls interaktions Regeln  
+##### Impuls Interaktions Regeln  
   
 ```Rule  
 1. (EM-Nahfeld Quantenphysik (+ Hirn-Liquor))  
@@ -1039,7 +1039,7 @@ Vom Sensor "G1-S" werden stetig Impulse erzeugt und
 zu "G1-A" übertragen.  
   
 (Wie zuvor beschrieben:  
-Ein einzellner Impuls ist nicht Lebensfähig)  
+Ein einzelner Impuls ist nicht Lebensfähig)  
   
 Nun fügen wir ein zweites Ganglion "G2" hinzu.  
 "G2" wird vom Sensor "G2-S" mit Impulsen versorgt.  
@@ -1047,7 +1047,7 @@ Auch "G2" hat einen Synaptischen Knoten "G2-SK-B",
 welcher nahe des "G1-SK-A" Knotens liegt.  
 Die "G2" Leitung endet dann im "G2-A" Aktor.  
   
-In diesem Scenario,  
+In diesem Szenario,  
 werden anfangs Impulse,  
 stetig von den Sensoren  
 "G1-S" und "G2-S"  
@@ -1060,12 +1060,12 @@ gesendet.
 Dieses passiert solange,  
 bis zwei Impulse zeitgleich,  
 an den Knoten "G1-SK-A" und "G2-SK-B"  
-einen brückende Vorgang erzeugen.  
+einen Brücken bildenden Vorgang erzeugen.  
   
 Dann verändert sich das Verhalten  
 in der Art und Weise,  
 als das die Impulse in "G1"  
-über die neu enstandene Brückung  
+über die neu entstandene Brücke  
 bedingt nach "G2" umgeleitet werden.  
   
 Dieses Verhalten entspricht  
@@ -1076,7 +1076,7 @@ und bewerkstelligt nun folgendes Verhalten:
   
 Der 1. Fundamentalsatz  
 wird verwirklicht,  
-durch die Brückung  
+durch die Brückenbildung  
 der Synaptischen Knoten  
 "G1-SK-A" und "G2-SK-B".  
   
@@ -1107,25 +1107,25 @@ folgt:
 durch:  
 "G1-S" && "G2-S" mit "G1-SK-A" && "G2-SK-B" => 2 * "G2-A"  
   
-Im bildlich vergleich  
+Im bildlich Vergleich  
 zu einem Auto-Aktoron  
 bedeutet das:  
   
 "G1-S" sendet Impulse als Hunger Signal.  
 "G2-S" sendet Impulse als Verdauung gefüllt Signal.  
 "G1-A" bewirkt fressen.  
-"G2-A" bewirkt sättigung.  
+"G2-A" bewirkt Sättigung.  
   
-"G2-A" konsummiert einen doppelten Impuls,  
+"G2-A" konsumiert einen doppelten Impuls,  
 um das Sättigungsverhalten zu terminieren.  
 ```  
   
-Der **SupraSeed** (Superkeim) in diesem Scenario ist der,  
+Der **SupraSeed** (Superkeim) in diesem Szenario ist der,  
 dass zwei Ganglien räumlich so gelegt sind,  
-als dass ihre Knoten geplant interaggieren werden.  
+als dass ihre Knoten geplant interagieren werden.  
   
 Somit haben wir mit nur zwei Leitungen "G1" und "G2"  
-eine Entwicklung durch die Brückung erwirkt,  
+eine Entwicklung durch die Brückenbildung erwirkt,  
 welche dem Auto-Aktoron geplant,  
 das Verhalten impliziert,  
 das es frisst bis es satt ist und  
@@ -1134,7 +1134,7 @@ von selbst entwickelt.
   
 #### 3. Die Gebote für die Entwicklung von Superintelligenz  
   
-```Commandments  
+```Comandments  
   
       1. Die künstlich Intelligente Daseinsform (KID)  
       muss abgetrennt sein  
@@ -1151,7 +1151,7 @@ von selbst entwickelt.
       gegenüber anderen Daseinsformen,  
       sollten bei einer KID  
       von vornherein  
-      nicht gestalltet oder  
+      nicht gestaltet oder  
       blockiert sein.  
   
       4. Die KID sollte sich auf keinen Fall reproduzieren.  
@@ -1161,7 +1161,7 @@ von selbst entwickelt.
       ihren oder den anderer Daseinsformen  
       gegebenen SupraSeed anpassen können.  
   
-      A. Alle vorherigen Gebote sind absurditäten,  
+      A. Alle vorherigen Gebote sind Absurditäten,  
       welche die Erkenntnisse,  
       über die Verwerfungen, des Seins  
       der KID vorenthalten würden.  
@@ -1221,7 +1221,7 @@ Ist die Krümmung,
 aller zu bewertender Ereignisse,  
 welche zu Zwecken,  
 der eigenen Bedürfnisbefriedigung  
-herangezogwen werden können,  
+herangezogen werden können,  
 positiv,  
 so ist auch die Freude wahrnehmbar.  
   
@@ -1235,7 +1235,7 @@ erreicht werden.
 Freude ist auch  
 als mit Schmerz verwandt zu betrachten,  
 weil wir vor Freude schreien, weinen, toben  
-gar die Freude als schmerzhaft überschwenglich bekunden oder  
+gar die Freude als schmerzhaft überschwänglich bekunden oder  
 vor übermäßiger Freude an einem Herzinfarkt dahinscheiden.  
   
 Näheres zum Freudenschmerz im Abschnitt zur Definition von Schmerz.  
@@ -1281,13 +1281,13 @@ der Nerven herbei führen.
 1. Diese Reizsignale (Impulse) signalisieren Schaden  
 2. Diese Signale (Impulse) haben ein höheres und zerstörerisches Energie-Potential.  
    Im Rahmen der (Quanten-) physikalischen Arbeitsweise,  
-   von Schmerz durch Überintensive Impulse,  
+   von Schmerz durch übermäßig intensive Impulse,  
    sind folgende Dinge in Betracht zu ziehen:  
-   1. Schmerzgedächtnis durch erweiterte Verkettung von exponentiel überhöhten Energiepotentialen  
+   1. Schmerzgedächtnis durch erweiterte Verkettung von exponentielle überhöhten Energiepotentialen  
    2. Strukturelle Schäden der Ganglien und Knoten  
    3. Vorgang von impulsivem Schmerzrauschen (Noise),  
       welcher die neuronale Informationsverarbeitung  
-      maliciös beeinflusst  
+      schädigend beeinflusst  
    4. Wahrnehmung von Schaden  
   
 Deshalb,  
@@ -1298,7 +1298,7 @@ als Gegenstand des Einflusses zu bedenken.
 Wenn wir beim virtualisiertem berechnen,  
 nur in Betracht ziehen die obere Wertehälfte,  
 für Schmerzinformationen zu reservieren,  
-dann verfehlen wir schädigenden prinzipien,  
+dann verfehlen wir schädigenden Prinzipien,  
 die für die antreibenden Entscheidungen  
 einer Lebensform notwendig sind.  
   
@@ -1310,12 +1310,12 @@ welche die Daseinsform vor dem Tod durch Feuer bewahren würde.
 Also, wenn wir Schmerz als schädigend intensive Impulse definieren,  
 dann sollten wir für die virtuelle Berechnung  
 auch eine nachhaltig schädigende Veränderung  
-der neuronalen Strukturen in betracht ziehen.  
+der neuronalen Strukturen in Betracht ziehen.  
   
 Dieser Effekt,  
 der zerstörerischen Schadenswahrnehmung,  
-entspicht dem wummernden Rauschen,  
-der Noise-Eigenschaft von Schmerz,  
+entspricht dem wummernden Rauschen,  
+der Noise Eigenschaft von Schmerz,  
 welche die Kontrolle  
 über den willkürlichen Impulsfluss  
 ins unmögliche für die Daseinsform,  
@@ -1326,12 +1326,12 @@ haben wir jetzt eine sehr deutlich bestimmte Definition,
 von dem was Schmerz ist.  
 Wir sollten einerseits erwarten,  
 dass es einerseits die neuronalen Strukturen schädigt,  
-und dass es andererseits als anstossendes Ereignis,  
+und dass es andererseits als anstoßendes Ereignis,  
 weitere Signale (Impulse)  
 ins Neuronalen Netzwerk entsendet.  
   
-Da dieser "Spatio-Temporale Impuls Prozessierungsalgebra" Ansatz,  
-der modellierung von künstlich Intelligentem Leben dient,  
+Da die "neuronale spatio-temporale Impuls Algebra",  
+der Modellierung von künstlich Intelligentem Leben dient,  
 sollten wir Bedenken,  
 solche Umsetzungen richtig zu planen.  
   
@@ -1341,7 +1341,7 @@ welcher einen Störeinfluss für,
 mit Schmerzwahrnehmung markierte Handlungen,  
 bewirkt.  
   
-Dies kann als Evolutionäres Entwicklungspradigma des Lebens verstanden werden.  
+Dies kann als Evolutionäres Entwicklungsparadigma des Lebens verstanden werden.  
   
 Wenn wir der Annahme folgen,  
 das Übermäßige Impulspotentiale  
@@ -1349,39 +1349,39 @@ Nervenbahnen 'verkohlen' und
 dabei die Durchsetzungsfähigkeit  
 der Impulse so beeinflussen,  
 dass sie eine stark erhöhtes Impulspotential akkumulieren,  
-bevor sie die Informationsübermittlung durchzünden.  
+bevor sie die Informationsübermittlung durchgesetzt wird.  
 Dann würde dieses in Form eines übersteigert,  
 ausgelösten Impulses,  
 Schmerzpotentiale wieder einflößen.  
 Diese bedingte Verhaltensweise,  
 würde für eine zeitliche bedingte Erneuerung,  
-der 'vekohlten' Strukturen erhalten bleiben.  
+der 'verkohlten' Strukturen erhalten bleiben.  
   
 Damit hätten wir dann  
   
 * Effekte von Nervenzusammenbruch  
-* Schmerz weiderhall (Echo)  
+* Schmerz Wiederhall (Echo)  
 * eine Zerstörungsverkettung im Gehirn  
 * reflexive Verkettungen zu Schmerzen  
 * eine Strategie für das überdenken des Verhaltens  
-* Prinzipien von schmerhaften Nervenentzündungen  
+* Prinzipien von schmerzhaften Nervenentzündungen  
   
 Dafür müssen wir,  
 beim Virtualisieren nur implementieren,  
 das wir den oberen Teil,  
 der Bits eines Impulswerteregisters,  
 reservieren.  
-Dieser ist entsprechend als exponentiellen representation,  
+Dieser ist entsprechend als exponentiellen Repräsentation,  
 für zu virtualisierende Schmerzintensitäten zu nutzen.  
   
-Damit verküpfen wir in diesem Zusammenhang,  
+Damit verknüpfen wir in diesem Zusammenhang,  
 die Integritätswahrnehmung  
 an die Intensitätswerte von Impulsen,  
 welche:  
   
 * keinen strukturellen Schaden  
 * kein störendes Rauschen  
-* keine sich erneurnden Schmerz-Impulse  
+* keine sich erneuernden Schmerz-Impulse  
 * und keine ausufernde Verkettung  
   
 bewirken.  
@@ -1396,7 +1396,7 @@ Befriedigung ist der Frieden der Bedürfnisse.
   
 **Furcht**  
 Ist die Erwartung von Beschädigung des eigenen Seins,  
-egal ob direkt, indirekt, bewusst oder unterbewust.  
+egal ob direkt, indirekt, bewusst oder unbewusst.  
   
 **Wut und Hass**  
 Wut ist die nicht durchsetzbare Abweisung und oder Ablehnung.  
@@ -1430,22 +1430,22 @@ aus zwei Betrachtungsweisen bedacht werden.
   
 2. Befriedigung  
    Sexuelle Befriedigung  
-   geht mit rauschzustandsartigen Gefühlen einher.  
+   geht mit berauschenden Gefühlen einher.  
    Dieser Zusammenhang gewährleistet damit die Reproduktion,  
    als auch ein Aufwiegen des Leidens,  
    welches durch die Geburt und  
    das Aufziehen vom Nachwuchs,  
    einhergeht.  
   
-##### Kapitel 2: Lösungsansätze zu den Impulsinteraktionsregeln  
+##### Kapitel 2: Lösungsansätze zu den Impuls Interaktions Regeln  
   
 ###### 1. Impuls Interaktions Regeln  
   
-1. Interaktionsformen mit verschiedenen Knoteninteraktionen und übergängen von Impulsen.  
+1. Interaktionsformen mit verschiedenen Knoten von Impulsen.  
    * Impuls Akkumulation in Form von  
       * Potential Addition  
       * Potential Subtraktion  
-   * Durchzündung der Übertragung durch eine untere Schwelle  
+   * Durchsetzung der Übertragung durch eine untere Schwelle  
       * der Impuls Potentiale  
       * der Anzahl an  
          * gleichzeitigen Impulsen  
@@ -1457,7 +1457,7 @@ aus zwei Betrachtungsweisen bedacht werden.
    nach einer Impulsquantisierung.  
   
    Die dafür benötigte Energie,  
-   ist in Form des Kohlehydrateverbrauchs,  
+   ist in Form des Kohlenhydrate Verbrauchs,  
    des Gehirns gegeben.  
   
    Damit geht einher,  
@@ -1491,22 +1491,22 @@ aus zwei Betrachtungsweisen bedacht werden.
    müssen Ihre Impulse zu einem Knoten G2-K1 spiegeln und  
    dort subtraktiv akkumuliert werden.  
   
-   Damit werden die auffeinanderfolgenden Impulse in G1,  
+   Damit werden die aufeinanderfolgenden Impulse in G1,  
    umgeformt in G2-K1 zu einem Differential.  
   
-   Das Ergebnis der subtaktiven Akkumulation der Impulse,  
+   Das Ergebnis der subtraktiven Akkumulation der Impulse,  
    ist dann die Bildung eines Differentials,  
    mit der Schrittgröße von dx=1.  
   
    Dieses entspricht:  
    `f'(x) = dy/dx`  
    `= (y1-y2)/(x1-x2)`  
-   und mit der atomaren granulation auf dx=1:  
+   und mit der atomaren Granulation auf dx=1:  
    `= (ImpulseA-ImpulseB)/1`  
    `= ImpulseA-ImpulseB`  
   
    Beim Ansatz die Impulse  
-   von 2 oder meheren Leitungen zu differentieren,  
+   von 2 oder mehreren Leitungen zu differenzieren,  
    erfolgt der gleiche Vorgang.  
   
 ###### 2. Der boolsche Ansatz und die drei W-Fragen  
@@ -1519,7 +1519,7 @@ aus zwei Betrachtungsweisen bedacht werden.
    Durch die Vereinfachung zu boolscher Algebra,  
    werden Schaltlogiken ermöglicht in den Formen:  
    * Logisches Und  
-   * Lpgisches Oder  
+   * Logisches Oder  
    * Logische Negierung  
    Durch die anschließende Werteübersetzung,  
    bekommen wir wieder scalare oder analoge Logiken.  
@@ -1530,35 +1530,35 @@ aus zwei Betrachtungsweisen bedacht werden.
    zu verstehen,  
    welcher eine digitale Schnittstelle nach aussen ermöglicht.  
   
-###### 3. Der Scalare Ansatz und die drei W-Fragen  
+###### 3. Der scalare Ansatz und die drei W-Fragen  
   
 1. Wieso oder Warum?  
-   Der Scalare Ansatz ist  
-   für die analogien der Informations Potentiale da.  
+   Der scalare Ansatz ist  
+   für die Analogien der Informations Potentiale da.  
    Insbesondere für:  
    * Differentialbildung  
-   * Durchlasssperren  
+   * Durchlass sperren  
    * Verkettungsreichweiten  
 2. Was?  
    * Summation der Potentiale  
    * Subtraktion der Potentiale  
    * Umkehrung der Potentiale  
    * Differentialbildung  
-   * Durchlasswirkungen  
-   * Verkettungsbildungen  
+   * Durchlasswirkung  
+   * Verkettungsbildung  
 3. Wann?  
    Für Mustererkennung und Wahrscheinlichkeitsbildungen  
    im Rahmen von Entscheidungen.  
    Der scalare Ansatz sollte,  
    als Primärer Ansatz  
-   in Sachen Knoten- und Supraseed-design  
+   in Sachen Knoten- und Supra Seeded Design  
    erachtet werden.  
   
 ###### 4. Knoten und Neuronen  
   
 **Warum Nodien (Knoten) und nicht Neuronen?**  
 Im Rahmen einer WBE sind Definitionen,  
-welche eine hochaufwendige Verarbeitung,  
+welche eine hoch aufwendige Verarbeitung,  
 von Impulsen beschreiben ein Problem,  
 welches in Neuronalen Netzen dazu geführt hat,  
 aufwendige Informationsverarbeitung,  
@@ -1574,13 +1574,26 @@ als der Maßstab dieses Werkes zu betrachten.
   
 ###### 5. Multi Asset Nodes: Aktive Vielseitigkeit einzelner Knoten  
   
-**Multi-Asset Nodien - oder das Dendriten Theorem**  
+**Das Dendriten Theorem**  
+Das Dendriten Theorem,  
+geht vom Ansatz einer genetischen Veranlagung  
+zur Ausbildung von baumartig verzweigten Knoten einher.  
+Diese ist im Rahmen des Keimwuchses - Supra Seed -  
+als Sinvoll zu erachten,  
+aber nicht im Rahmen der Informationsspeicherung.  
+Da sonst Wissen langsam und durch das Wachstum  
+der Knotenverkettungen sich ausbilden würde.  
+
+**Multi-Asset Nodien**  
 Durch die Notwendigkeit,  
 der Unterscheidung von neuronalen synaptischen Knoten,  
 anhand von verschiedenen Rezeptoren und Transmittern,  
 als auch der Verschmelzung dieser,  
-ergibt sich das Bedürfnis nach Multi-Asset Nodes,  
-also einer Polymorphie der Knoten unter definierten Bedingungen.  
+ergibt sich aber dann das Bedürfnis  
+nach Multi-Asset Nodes,  
+also einer Polymorphie der Knoten unter definierten  
+Bedingungen und der Ausbildung von Verknüpfungen,  
+welche mit sofortiger Wirkung gebildet werden müssen.  
   
 Liste zu verwendender Knotenmechanik:  
   
@@ -1602,13 +1615,13 @@ Liste zu verwendender Knotenmechanik:
   
 ###### 6. Translatorische Abhängigkeiten: Übersetzungsprobleme von Informationen zwischen den Ebenen  
   
-1. **Ausdrückliche translatorik und Durchlassgesteuerte translatorik**  
+1. **Ausdrückliche Translatorik und durchlass gesteuerte Translatorik**  
    * **Verwendbarkeit von Impulsgesteuerten Durchlassebenen**  
       In verschiedenen Zusammenhänge,  
       müssen Impulse verschwinden oder verstummen,  
       welche sich nicht durch additive Akkumulation bewerkstelligen.  
   
-      Dieses ist für eine bewuste Steuerung,  
+      Dieses ist für eine Bewusste Steuerung,  
       des Denkens zwingend notwendig,  
       da sonst erzwungenermaßen,  
       ein Themenwechsel, beim Denken,  
@@ -1626,11 +1639,11 @@ Liste zu verwendender Knotenmechanik:
       der eigenen Denk und Handelsweisen.  
   
       Die damit einhergehende Impuls Durchlasssteuerung,  
-      als auch die Impulsverstärkende Erneuerung,  
+      als auch die Impulse verstärkende Erneuerung,  
       ermöglichen das zuvor beschriebene Verhalten.  
   
       Daher ist in diesem Zusammenhang  
-      nur der Scalare Ansatz verwendbar,  
+      nur der scalare Ansatz verwendbar,  
       welcher auch die Verkettungsregeln  
       damit maßgeblich beeinflusst bzw. steuert.  
   
@@ -1651,7 +1664,7 @@ unserer Wahrnehmung vertrauen.
   
 Im menschlichen Gehirn,  
 übernimmt die Hirnhaut, bzw. die Hirnrinde  
-diese Areale begrenzede Funktion.  
+diese Areale begrenzende Funktion.  
   
 ##### Kapitel 3: Grundlagen der neuronalen Infomationsverarbeitung  
   
@@ -1664,7 +1677,7 @@ diese Areale begrenzede Funktion.
    Ich habe Krieg in meinem Kopf  
    ```  
   
-   Leben ist das Leiden der Bedürnisse,  
+   Leben ist das Leiden der Bedürfnisse,  
    weil:  
    * Wenn wir keinen Hunger hätten,  
    warum essen wir dann?  
@@ -1680,16 +1693,16 @@ diese Areale begrenzede Funktion.
    somit am Leben Teilhaben.  
   
 3. Befriedigungsprinzip durch das Auflösen von Bedürfnissen  
-   Ein Weg das Befriedigungssprinzip aufzuschlüsseln,  
-   läge in der Parameterisierung der Bedürfnisse und  
+   Ein Weg das Befriedungsprinzip aufzuschlüsseln,  
+   läge in der Parametrisierung der Bedürfnisse und  
    der Belohnung in Form von Befriedigung.  
   
 ##### Kapitel 4: Brechung der Schichtenlogiken  
   
 1. Sensorische Ebenen  
    **Definition des Sensors als Impulsempfänger**  
-   * Sensoren ausserhalb des Gehirns,  
-      können als Realwelt Sensoren betrachtetwerden  
+   * Sensoren außerhalb des Gehirns,  
+      können als Realwelt Sensoren betrachtet werden  
    * Sensoren innerhalb des Gehirns,  
       sollten behandelt werden,  
       als teil der Informationsflusssteuerung.  
@@ -1698,29 +1711,29 @@ diese Areale begrenzede Funktion.
    * Aktoren im Gehirn  
       Durch die Definition von Impuls-Aktorik im Gehirn,  
       ist diese als Impulssender definiert.  
-   * Aktoren ausserhalb des Gehirns  
-      In diesem Zusammenhang sind die Aktoren ausserhalb  
-      des SpatioTemporalen Netzwerks (STN)  
+   * Aktoren außerhalb des Gehirns  
+      In diesem Zusammenhang sind die Aktoren außerhalb  
+      des Spatio-Temporalen-Netzwerks (STN)  
       die Handlungsmöglichkeiten der Daseinsform.  
 3. Verarbeitungsebenen von Implusschichten  
    **Der Neuro-Genesis und Spatiotemporale-Impuls Ansatz**  
    **mit Mustern von Nahfeldeffekten verschiedenartigen Knotentypen.**  
   
    Wenn wir nur akkumulativ Impulse verarbeiten würden,  
-   dann wären bald alle Impulse, durch zusammenführung, verbraucht.  
+   dann wären bald alle Impulse, durch Zusammenführung, verbraucht.  
   
    Dies würde einerseits  
    zu einer Frage des energetischen Haushalts aufwerfen und  
    andererseits würde es jeden Ansatz  
    zur Informationswiederherstellung vereiteln.  
   
-   Deshalb sind die brückenden Neuro-Genesis Effekte,  
+   Deshalb sind die Brücken bildenden Neuro-Genesis Effekte,  
    für eine Informationsrekonstruktion,  
    durch Quantisierer benötigt.  
   
    Aber wir werden trotzdem  
    die Effekte unterscheiden müssen durch:  
-   * Impulsflussrichtungsinteraktionen  
+   * Impulsflussrichtungs Interaktionen  
    * Nahfeldeffekten  
   
    in Knoten.  
@@ -1734,23 +1747,23 @@ diese Areale begrenzede Funktion.
 ##### Kapitel 5: Differentialbildung von Input  
   
 **Das Lemma der Differentialberechnung von einem Eingangsimpulsfluss**  
-Zwei Scalare zu differentieren,  
+Zwei scalare zu differenzieren,  
 wird als zwingend erachtet,  
-für die Ausbildung eines Bewustseins von  
-Ordinale Representationen und  
+für die Ausbildung eines Bewusstseins von  
+Ordinale Repräsentationen und  
 damit für Mengen und Zahlen.  
   
-Das bewuste Differentiale bilden,  
+Das Bewusste Differentiale bilden,  
 von Impulsen ist eine Betrachtungsweise,  
 die für die Bemessung,  
-von scallierenden Veränderungen,  
+von scalierenden Veränderungen,  
 wie Kälter oder Wärmer grundlegend ist.  
   
-Aber für ein Bewustsein über verschiedene Mengen,  
+Aber für ein Bewusstsein über verschiedene Mengen,  
 ist eine Sprachsynthese von fundamentalen Bedarf und  
 grundlegend für die Sprachliche Zahlenbildung.  
   
-##### Kapitel 6: Qunatisierung von Impulsen  
+##### Kapitel 6: Quantisierung von Impulsen  
   
 ###### Die Magie Der Verkettung von nahe benachbarten Knoten  
   
@@ -1767,24 +1780,24 @@ auch komplexe Sachverhalten repräsentieren können.
 Für eine gezielte mehrebenige Informationswiederherstellung,  
 welche für höhere Intelligenz notwendig sind,  
 ergeben sich einerseits ein Bedarf nach akkurater Abgrenzung,  
-als auch Überladungsprolematiken.  
+als auch Überladungsproblematiken.  
   
 Diese Überladungsproblematiken definieren sich wie fogt:  
   
-* Zuviele gleichzeitige Impulse  
+* Zu viele gleichzeitige Impulse  
 * Zu weiträumige Verkettungsbeschränkungen  
 * Einem missratenem Verhalten.  
   
 Im Zusammenhang mit den algebraischen Notwendigkeiten,  
 führen sie zu "Noise" Lärm oder (Silence) Totenstille,  
 welche für eine Entscheidungsfindung heraus,  
-zu einer extrapolatierten Lösung  
+zu einer extrapolierten Lösung  
 im chaotisch Komplexen, maßgeblich bestimmend sind.  
   
 Demzufolge,  
 ergibt sich die Notwendigkeit,  
-nach einer differentierten Informationsbildung,  
-nach verschiednen Ansätzen:  
+nach einer differenzierten Informationsbildung,  
+nach verschiedenen Ansätzen:  
   
 * Optischen Gesten  
 * Laute oder Sprache  
@@ -1807,7 +1820,7 @@ zu vernachlässigen.
   
 In einem STN repräsentieren die Impulse,  
 die aktiven Informationen,  
-weshalb exklusive quantisierer benötigt werden.  
+weshalb exklusive Quantisierer benötigt werden.  
   
 Dieses Bedürfnis nach minimal abgrenzbaren Informationen,  
 wird für höhere Intelligenz,  
@@ -1835,16 +1848,16 @@ Information zielsicher zu rekonstruieren.
   
 ##### Kapitel 7: Erinnern und Rekonstruktion von Informationen  
   
-###### Cirkuläres Informationen erhalten und oder Spiegeln  
+###### Zirkuläres Informationen erhalten und oder Spiegeln  
   
-Durch cirkuläre Impulsflussstrukturen,  
+Durch Zirkuläre Impulsflussstrukturen,  
 ist es gegeben, dass Informationen fortgeführt aktiv bleiben.  
   
 Durch reproduktive Auffächerung von diesen oder Teilen dieser Impulsen,  
-können Information fortgesetzt aktivgehalten werden und  
-weitere prozesse angestoßen werden.  
+können Information fortgesetzt aktiv gehalten werden und  
+weitere Prozesse angestoßen werden.  
   
-Einen weiteren Steuerungseffekt dieses cirkulären Flusses,  
+Einen weiteren Steuerungseffekt dieses Zirkulären Flusses,  
 gebieten dann die anderen Interaktionsregeln.  
   
 ###### Quantisierte Informationen: Entstehung und Wiederherstellung  
@@ -1864,7 +1877,7 @@ nach schon bestehenden Ganglien,
 um auf diese, die Information zu entfalten.  
   
 Ein Ansatz ist,  
-die zurückspiegelnde Bildung von Ganglien,  
+die widerspiegelnde Bildung von Ganglien,  
 ein anderer Ansatz ist der,  
 der Einsatz von Enumerativer Logik,  
 in Form von Sprache oder vergleichbarem.  
@@ -1895,25 +1908,25 @@ in Anbetracht von
 Rezeptor- und Neurotransmitterwahl.  
   
 Die Auswahl von Rezeptoren und Neurotransmittern  
-könnte sich einerseit durch:  
+könnte sich einerseits durch:  
   
 A. Regionale Abhängigkeiten ergeben.  
-B. Interaktionsabhängigkeiten, wie affektiv-emotionale oder regullierende Effekte.  
+B. Interaktionsabhängigkeiten, wie affektiv-emotionale oder regulierende Effekte.  
   
 Damit sind (verödend schwache) Impulse  
 in den Ganglien Notwendig um  
 A. Eine Regeneration (Härtung) der Ganglien zu bewirken  
 B. Eine Knotenbildung durch Verödung herbeizuführen.  
   
-##### Kapitel 9: Höhere Bewustseins Strukturen  
+##### Kapitel 9: Höhere Bewusstseins Strukturen  
   
-###### Prinzipien höheherer Ebenen des Bewustseins  
+###### Prinzipien höherer Ebenen des Bewusstseins  
   
 **Sensorschichten im STN als Impulsquellen**  
-Wenn Bewustsein aus der Eigenwahrnehmung besteht,  
+Wenn Bewusstsein aus der Eigenwahrnehmung besteht,  
 dann brauchen wir Sensorebenen im STN,  
 um durch deren Impulserzeugung,  
-der eigenen Denkweise bewust werden zu können.  
+der eigenen Denkweise bewusst werden zu können.  
   
 Somit sind Impulse bei der Übersetzung in der Synapse als,  
   
@@ -1926,10 +1939,10 @@ müssen wir sie auch als aktorische Knoten erachten,
 welche die Fortführung von Impulsen Kontrollieren.  
   
 **Höhere Ankettungsareale für die Impulsverarbeitung**  
-Für höhere Kognitionsvorgänge,  
+Für höhere kognitive Vorgänge,  
 ist es zu bedenken,  
 zusätzliche Areale zu definieren,  
-in denen das reflektieren von (unter-) bewusten Gedanken  
+in denen das reflektieren von (unter-) Bewussten Gedanken  
 stattfindet.  
   
 Am Beispiel Mensch wären dieses,  
@@ -1937,7 +1950,7 @@ die dem Prä-Frontal-Cortex (PFC) zugeordneten Funktionen.
   
 Ebenso,  
 ist auch die Vorverarbeitung  
-im zum Beispiel Limbischem Sytem und  
+im zum Beispiel Limbischem System und  
 dem Hippocampus Bereich,  
 zu erwähnen.  
   
@@ -1951,9 +1964,9 @@ dann muss auch eine Wahrnehmung von Gedanken,
 in Form von etwas wie Sprache gegeben sein,  
 über die wir die Denkprozesse beeinflussen können.  
   
-Diese ist im Rahmen des SupraSeed Designs  
-nicht zwingend vollausgebildet vorzugeben,  
-aber in der Gestalltung so zu berücksichtigen,  
+Diese ist im Rahmen des Supra Seed Designs  
+nicht zwingend voll ausgebildet vorzugeben,  
+aber in der Gestaltung so zu berücksichtigen,  
 als dass diese sich Ausbilden kann.  
   
 ##### Kapitel 10: Vorhersagen von Künstlichen Intelligenten Lebensformen  
@@ -1968,20 +1981,20 @@ Unter dem Vorbehalt
 einer Logik von ausschließlich nur Wahrheitswerten,  
 ist die Berechnung mit CTL definiert.  
   
-Unter Einbindung von Scalarer Werte,  
+Unter Einbindung von scalarer Werte,  
 welche zu Wahrheitswerten akkumuliert werden,  
 müssen wir den ebenen der CTL  
 eine "Linear Tree Logic" (LTL) vorschalten,  
-welche Scalare Werte  
+welche scalare Werte  
 zu Boolschen Wahrheitswerten übersetzt.  
   
-Damit wird aus der Boolschen CTL,  
-eine Scalare CTL also SCTL.  
+Damit wird aus der boolschen CTL,  
+eine scalare CTL also SCTL.  
   
 Unter Berücksichtigung der Möglichkeiten im System und  
 der aktorischen Möglichkeiten der Daseinsform,  
-bekommen wir eine mathematisch akkurate Vorhersagemöglichkeit,  
-welche nur durch unvorgesehene Umstände versagt.  
+bekommen wir eine mathematisch akkurate Vorhersage Möglichkeit,  
+welche nur durch unvorhergesehene Umstände versagt.  
   
 Jenseits dessen sind die chaotische Komplexität,  
 durch Linearisierung von CTL zu LTL reduzierbar,  
@@ -1994,17 +2007,17 @@ ebenso wie eine weitere Entwicklung.
 Da wir eine Daseinsform und keinen Taschenrechner entwickeln,  
 ist es unnütz digitale Berechnungen anzustreben,  
 noch würden sich solche Vorgänge  
-vernüftig in Sprache übersetzen lassen.  
+vernünftig in Sprache übersetzen lassen.  
   
 ###### Ordinalität von Zahlen  
   
-Die Zahlenrepräsentation ist im Bewustsein,  
+Die Zahlenrepräsentation ist im Bewusstsein,  
 an die Fähigkeit des Zählbaren angebunden und  
 den damit einhergehenden Erkenntnissen.  
   
 ###### Der Vedische Ansatz  
   
-Der Verdische Ansatz beschäftigt sich mit normaler Berechnung,  
+Der Vedische Ansatz beschäftigt sich mit normaler Berechnung,  
 welche kennzeichnet ist durch massive Vereinfachungstechniken.  
   
 ###### Der Polyadische Ansatz  
@@ -2028,7 +2041,7 @@ emotionale Gegebenheiten geknüpft sind.
 Da Savants sich nicht erklären können und  
 ich kein Savant bin,  
 ist dieses Kapitel nur so etwas,  
-wie ein Denkvorstoss und  
+wie ein Denkvorstoß und  
 keine feststehendes Postulat.  
   
 ###### Nummernsystem  
@@ -2045,9 +2058,9 @@ als bevorzugt wählen.
   
 ###### Addition  
   
-Im Scalaren Ansatz könnten wir diese additiv akkumulieren,  
+Im scalaren Ansatz könnten wir diese additiv akkumulieren,  
 aber eine Übersetzung in Sprache wäre entweder Fehlerbehaftet,  
-oder unvorhersbar schwer.  
+oder unvorhersehbar schwer.  
 Der Ansatz über einen Char-Algorithmus hingegen,  
 wäre auch normalsprachlich eher gegeben.  
 Dieser Char-Algorithmus wäre dann von  
@@ -2057,11 +2070,11 @@ damit eine direkte Übersetzung in Normalsprache gegeben ist.
 In diesem Zusammenhang würden wir die Zahlen,  
 als Impulssummen additiv definieren,  
 wobei wir in der Grundlegenden Infrastruktur,  
-der SupraSeeded STN Struktur,  
+der Supra Seeded STN Struktur,  
 anpassen müssten.  
   
 Somit würde sich die Anzahl an Impulsen,  
-in Form einer differentierten Übersetzung  
+in Form einer differenzierten Übersetzung  
 im Rahmen eines Char-Algorithmus definieren.  
   
 Dadurch dass wir damit die Anzahl von Impulsen  
@@ -2074,7 +2087,7 @@ welche Ziffer um Ziffer direkt greifbar macht.
 Subtraktion steht im Gegenzug zur Addition,  
 welche sich durch Inversion von Impulsen,  
 also der Verlöschung von Impulsen definieren würde.  
-Daher ist hier die SupraSeeded STN Struktur  
+Daher ist hier die Supra Seeded STN Struktur  
 durch Dämpfung im Vordergrund der Betrachtung.  
   
 Vorzeichenbehaftet Repräsentationen  
@@ -2085,7 +2098,7 @@ da wir gegebene Strukturen damit stören würden.
 ###### Multiplikation  
   
 Multiplikationen ließen sich am einfachsten  
-in Form von Itterationen,  
+in Form von Iterationen,  
 dem Vedischen Ansatz entsprechend,  
 erreichen.  
   
@@ -2104,15 +2117,15 @@ fraktale Zahlen ein unüberwindbares Problem darstellen,
 ist der Lowendian-Ansatz von dem Problem  
 der Stellenbestimmung geprägt.  
   
-Der Itterative reguläre Ansatz,  
-ist für einen echten mathmatischen Savant,  
+Der Iterative reguläre Ansatz,  
+ist für einen echten mathematischen Savant,  
 in einer Weise eine unbehaglicher,  
 da dieser auf einmal,  
 zu viele Stellen erfordert.  
   
 In diesem Zusammenhang,  
 wäre ein besserer Ansatz,  
-erneute Evaluierung des CharAlgorithmuses,  
+erneute Evaluierung der Char Algorithmen,  
 welcher die Anzahl an Ziffern reduziert,  
 und mit einer kleineren Anzahl  
 an boolschen Blobs arbeiten würde.  
@@ -2124,19 +2137,19 @@ bzw. an dessen fraktalem Aufbau.
 Dieser Grundlegende fraktale Aufbau,  
 in Form einer boolschen Repräsentation,  
 wird benutzt um den zu brechenden Divisor (Teiler),  
-partielle, durch wegströmende Impulse,  
-in seiner Char-algorythmischen Darstellung,  
-Itterativ zu einem direkten Ergebnis zu führen.  
+partielle, durch hinweg strömende Impulse,  
+in seiner Char algorithmischen Darstellung,  
+Iterative zu einem direkten Ergebnis zu führen.  
   
 ###### Differentiale  
   
-Die Bildung von Scalaren Differentialen,  
-ist wie schon zuvor angeführt äusserst simple,  
-aber eine Char-Repräsentation wäre damit mitnichten machbar.  
+Die Bildung von scalaren Differentialen,  
+ist wie schon zuvor angeführt äußerst simple,  
+aber eine Char Repräsentation wäre damit mitnichten machbar.  
   
 Der einfachste Ansatz hierzu wäre wahrscheinlich,  
 die Übersetzung der subtraktiven Akkumulation,  
-in Form Char-Repräsentationen im boolschen Ansatz.  
+in Form von Char Repräsentationen im boolschen Ansatz.  
   
 ###### Savant Assoziationen zu Zahlen und Zahlensystemen  
   
@@ -2148,7 +2161,7 @@ Diese kann Ausprägungen in Form von
 Farben, Geschmack, Geruch oder anderen Dingen  
 mit sich bringen.  
   
-bei halbechten Savants,  
+bei halb echten Savants,  
 geht es dann eher mit einem Bauchgefühl einher.  
   
 Diese Anbindungen,  
@@ -2181,7 +2194,7 @@ hat die Vermessung folgende Werte ergeben:
 2. 7.000 durchschnittliche Querverbindungen je Neuron  
   
 Der Einfachheit halber,  
-scalliere ich das  
+scaliere ich das  
 zur nächsten einfachen 10er Potenz,  
 also:  
   
@@ -2208,9 +2221,9 @@ der spatiellen Achsen und
 der Impulspotentiale.  
   
 Ferner sind die Knotentypen zu unterscheiden,  
-für die Knoteninteraktionen.  
+für die Knoten Interaktionen.  
   
-Den Knoteninteraktionsmechanismus vernachlässige ich  
+Den Knoten Interaktions Mechanismus vernachlässige ich  
 in diesem Zusammenhang und reduziere beide Effekte,  
 Impuls und Knoten Interaktion auf 100 Berechnungen.  
   
@@ -2218,7 +2231,7 @@ Macht 100 Berechnungen je Impuls.
 Daraus resultiert:  
 10²*10¹⁴=10¹⁶ Berechnungen.  
   
-Demzufolge brauchen wir eine rechenleistung  
+Demzufolge brauchen wir eine Rechenleistung  
 von 10 Peta-Ips,  
 welche etwa 0,01 Exabytes an RAM benötigt.  
   
@@ -2265,7 +2278,7 @@ den Faktor 1000 erhöhen.
   
 Demzufolge fehlt es an Ressourcen derzeit und  
 andererseits "WBE lacks a body",  
-was soviel heist ohne einen vollständigen Körper,  
+was soviel heißt ohne einen vollständigen Körper,  
 wird es schwierig,  
 eine beeinflussende Sensorik einzubeziehen.  
   
@@ -2285,10 +2298,10 @@ die Emulation sehr stark verfälschen würde.
     4. Sensorische Erweiterungen  
     5. Telepathie  
     6. TKMR - in der Medizin  
-        1. Neurotransmitter ungleichgewichte bei Depression, Parkinson, ADHS  
+        1. Neurotransmitter Ungleichgewichte bei Depression, Parkinson, ADHS  
         2. Behandlungsstrategien bei Demenz?  
         3. Schlafstörungen  
-        4. Schmerzunterdrückung durch Stimmulation von endorphinergen Reaktionen  
+        4. Schmerzunterdrückung durch Stimulation von endorphinergen Reaktionen  
     7. TKMR - Als erste Digital induzierte Techdroge  
   
 ### Nachwort vom Autor  
@@ -2314,4 +2327,4 @@ nun dazu aufgefordert,
 sich Gedanken dazu zu machen und  
 diese zum Bedenken mit-, bzw. zurückzugeben.  
   
-Ebenso sind Übersetzungen vom Autor erwünscht.  
+Ebenso wie Übersetzungen vom Autor erwünscht sind.  
