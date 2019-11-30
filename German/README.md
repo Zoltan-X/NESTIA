@@ -5,7 +5,7 @@
 Als Autor dieses Werkes,  
 bin ich in dieser Ausarbeitung bestrebt,  
 ein allgemein verständliches Werk abzuliefern.  
-Hierfür verwende ich verschieden Ansätze,  
+Hierfür verwende ich verschiedene Ansätze,  
 welche dem Verständnis des Lesers,  
 hilfreich zugute kommen sollen.  
   
@@ -280,8 +280,8 @@ der nachfolgenden Abschnitte.
   
       ```Cite  
       Der Meister,  
-      ist nicht deshalb Meister,  
-      weil er alle Lösungen kennt,  
+      ist nicht deshalb der Meister,  
+      weil er alle Lösungen schon kennt,  
       sondern weil er mehr Fehlschläge erfahren hat,  
       als der Anfänger versuche begangen hat.  
       ```  
@@ -311,7 +311,7 @@ der nachfolgenden Abschnitte.
       ```Cite  
       Ich bin kein Gott,  
       woher soll ich wissen,  
-      wie man die GEnesis richtig begeht.  
+      wie man die Genesis richtig begeht.  
       ```  
   
 25. Erkenntnis:  
@@ -400,8 +400,7 @@ in selbstregulierenden Kreisläufen,
 von Symbiosen hervorgetan hat und  
 damit die Vielfalt und Pracht der Weisheit,  
 der Spezialisierungen begangen hat,  
-ist dies eine kosmologische Konstante der Evolution.  
-  
+ist dies eine kosmologische Konstante der Evolution;  
 Wo genau solche Prinzipien,  
 mit der Genetik vererbt und  
 weiterentwickelt wurden.  
@@ -417,8 +416,8 @@ uns vorstellen können.
   
 Alle natürlichen Zahlen sind auch definierbar als  
   
-* a Primzahlen oder  
-* b Primzahlen Produkte  
+* A. Primzahlen oder  
+* B. Primzahlen Produkte  
   
 wodurch sich folgert:  
 `Es gibt im Kosmos nur Primen und deren Produkte.`  
@@ -452,7 +451,8 @@ seit der Antike bekannt ist.
 Mit dem Sieb des Eratosthenes,  
 lässt sich die Anzahl,  
 an Divisionen auf nur alle,  
-bis dahin gefundenen, Primzahlen reduzieren.  
+bis dahin gefundenen,  
+Primzahlen reduzieren.  
   
 Sie bedarf sogar  
 nur aller Primzahlen,  
@@ -551,7 +551,7 @@ Insbesondere, die Vorstellung, einer simulierten Raumzeit,
 mit Prozess Clustering, bestätigt dann gewisse Szenarien  
 der Überlastung, die aber eine Konsistenz  
 durch Raumzeit-Verzerrungseffekte,  
-mit dem Rest des Verbundes, wiederherstellen würden.  
+mit dem Rest des Verbundes, wieder herstellen würden.  
   
 Und wenn es keine Zeitreisen gäbe,  
 und somit immer das kausale Prinzip gilt,  
@@ -577,7 +577,7 @@ unsere Realität zu verlassen und in sie zurückzukehren.
        1. **Lernen:**  
        Vorgang der durch bewusstes Nachdenken (Kognition)  
        Verständnis und Nutzen herbeiführt.  
-       1. **Konditionieren:**  
+       2. **Konditionieren:**  
        Antrainiertes Verhalten,  
        welches durch Wiederholung und  
        mit konsequentem Wohl- oder Unbehagen  
@@ -696,7 +696,7 @@ unsere Realität zu verlassen und in sie zurückzukehren.
     6. Super Intelligenz (SI)  
         1. Explosive Technische Singularität  
         2. Wird eine SI die Menschen brauchen oder wegrationalisieren?  
-        3. Wird eine SI sich wie ein Wunderkind sich um ihre Erzeuger kümmern?  
+        3. Wird eine SI sich wie ein Wunderkind um ihre Erzeuger kümmern?  
     7. Alfred von Neumann Sonden und was dann?  
     8. Ausserirdisches Leben als Gefahr für den Menschen?  
     9. "Sie werden es noch Lernen" Sprach Gott  
