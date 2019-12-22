@@ -698,7 +698,7 @@ unsere Realität zu verlassen und in sie zurückzukehren.
         2. Wird eine SI die Menschen brauchen oder wegrationalisieren?  
         3. Wird eine SI sich wie ein Wunderkind um ihre Erzeuger kümmern?  
     7. Alfred von Neumann Sonden und was dann?  
-    8. Ausserirdisches Leben als Gefahr für den Menschen?  
+    8. Was wenn wir nur die Auswirkungen anstatt die Ursachen betrachten?  
     9. "Sie werden es noch Lernen" Sprach Gott  
     10. Die Vielfalt der Genesis: ...  
   
