@@ -32,6 +32,8 @@ als von dem Gebrauch im Zusammenhang.
 * STN Spatio temporales Netzwerk 
 * CTL Computational Tree Logic mehrschichtige Bayesanische Stochastik
 * LTL Linear Tree Logic zweischichtige Bayesanische Stochastik
+* ZNS Zentrales Nerven System (Cerebrum) also Gehirn
+* PNS Pyramidale Nerven System (Sympathicus und Parasympathicus) Nervenbahnen im (Soma) Körper.
 
 ### Quellen  
 
@@ -67,7 +69,8 @@ werden vom Autor, als dafür hilfreich erachtet.
       mit zumeist guten Erklärungen.  
       1. Wiktionary: Das Wörterbuch der Wikimedia Foundation  
       2. Das Sieb des Eratosthenes  
-      3. ...  
+      3. [Nozizeptoren](https://de.m.wikipedia.org/wiki/Nozizeptor)
+      4. ...  
    2. pubmed.nist.gov:  
       Amtliche, öffentlich zugängliche Sammlung  
       von medizinischen Forschungsberichten  
@@ -331,6 +334,19 @@ der nachfolgenden Abschnitte.
       Lügen sind unfruchtbar und  
       ein Leben mit ihnen ist quälend.  
       ```
+26. Kommentar:
+
+      ```Cite
+         Die Wahrheit richtet mehr Schaden an,
+         als Lügen.
+      ```
+
+27. Zitat:
+
+      ```Cite
+         Wer suchet, der findet.
+         Wer reinfällt, verschwindet.
+      ```
 
 ## Das Projekt: Neuronale Spatio-Temporale Impuls Algebra  
 
@@ -572,7 +588,7 @@ des Seins, sein könnte,
 da es keinen belegten Weg dafür gibt,  
 unsere Realität zu verlassen und in sie zurückzukehren.  
 
-### Philosophie, Ethik und Bedenken des Autors  
+### Philosophie, Ethik und Kontroverse Bedenken des Autors  
 
 1. Der Evolutionäre Fußabdruck und die Primfaktoren des Seins  
 2. Affektivität: Der Motor des Handelns  
@@ -1287,7 +1303,7 @@ ist es in Betracht zu ziehen,
 das Schmerz zum anzeigenden Gefühl,  
 von der Beschädigung des Selbst da ist.  
 
-Da Schmerz eine Sofortige Verhaltensänderung erbringt,  
+Da Schmerz eine sofortige Verhaltensänderung erbringt,  
 ist Schmerz als eine starke neuronalen Veränderung zu betrachten.  
 
 Schmerz wird in Nervenbahnen  
@@ -1298,10 +1314,10 @@ der Nerven herbei führen.
 1. Diese Reizsignale (Impulse) signalisieren Schaden  
 2. Diese Signale (Impulse) haben ein höheres und zerstörerisches Energie-Potential.  
    Im Rahmen der (Quanten-) physikalischen Arbeitsweise,  
-   von Schmerz durch übermäßig intensive Impulse,  
+   von Schmerz mit übermäßig intensiven Impulsen,  
    sind folgende Dinge in Betracht zu ziehen:  
    1. Schmerzgedächtnis durch erweiterte Verkettung von exponentielle überhöhten Energiepotentialen  
-   2. Strukturelle Schäden der Ganglien und Knoten  
+   2. (Vorübergehende) Strukturelle Schäden der Ganglien und Knoten  
    3. Vorgang von impulsivem Schmerzrauschen (Noise),  
       welcher die neuronale Informationsverarbeitung  
       schädigend beeinflusst  
@@ -1311,6 +1327,16 @@ Deshalb,
 sollten wir in Betracht ziehen,  
 die Werteobergrenzen des Informationstransports  
 als Gegenstand des Einflusses zu bedenken.  
+
+Auch wenn der aktuelle Stand der Forschung,  
+In Richtung [Nozizeptoren](https://de.m.wikipedia.org/wiki/Nozizeptor) geht,  
+so ist dieses Konstrukt mit den Nozizeptoren für das PNS passend,  
+aber für das ZNS weniger.  
+Nichts desto trotz,  
+lassen sich beide Ansätze gut miteinander vereinen.  
+Der virtuelle Ansatz ist aber im Rahmen seiner  
+Abstraktion und Vereinfachung  
+eher für das ZNS geeignet.
 
 Wenn wir beim virtualisiertem berechnen,  
 nur in Betracht ziehen die obere Wertehälfte,  
@@ -1366,7 +1392,7 @@ Nervenbahnen 'verkohlen' und
 dabei die Durchsetzungsfähigkeit  
 der Impulse so beeinflussen,  
 dass sie eine stark erhöhtes Impulspotential akkumulieren,  
-bevor sie die Informationsübermittlung durchgesetzt wird.  
+bevor die Informationsübermittlung durchgesetzt wird.  
 Dann würde dieses in Form eines übersteigert,  
 ausgelösten Impulses,  
 Schmerzpotentiale wieder einflößen.  
@@ -1376,7 +1402,7 @@ der 'verkohlten' Strukturen erhalten bleiben.
 
 Damit hätten wir dann  
 
-* Effekte von Nervenzusammenbruch  
+* Effekte von Nervenzusammenbruch und Dissoziation  
 * Schmerz Wiederhall (Echo)  
 * eine Zerstörungsverkettung im Gehirn  
 * reflexive Verkettungen zu Schmerzen  
@@ -1392,8 +1418,8 @@ Dieser ist entsprechend als exponentiellen Repräsentation,
 für zu virtualisierende Schmerzintensitäten zu nutzen.  
 
 Damit verknüpfen wir in diesem Zusammenhang,  
-die Integritätswahrnehmung  
-an die Intensitätswerte von Impulsen,  
+die Integritäts-wahrnehmung  
+an die -werte von Impulsen,  
 welche:  
 
 * keinen strukturellen Schaden  
