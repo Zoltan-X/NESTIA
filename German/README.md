@@ -33,7 +33,7 @@ als von dem Gebrauch im Zusammenhang.
 * CTL Computational Tree Logic mehrschichtige Bayesanische Stochastik
 * LTL Linear Tree Logic zweischichtige Bayesanische Stochastik
 * ZNS Zentrales Nerven System (Cerebrum) also Gehirn
-* PNS Pyramidale Nerven System (Sympathicus und Parasympathicus) Nervenbahnen im (Soma) Körper.
+* PNS Pyramidales Nerven System (Sympathicus und Parasympathicus) Nervenbahnen im (Soma) Körper.
 
 ### Quellen  
 
@@ -779,7 +779,7 @@ Dabei entwickelte und verfeinerte ich verschiedene Fragen:
 * Ist es möglich das,  
   die stärkeren Nahfeld Effekte von Elektromagnetismus,  
   so vieles Stärker sind,  
-  als das sie neue Verbindungen (Ganglien),  
+  als das sie neue Verbindungen (Axone),  
   blitzartig zwischen zwei Synapsen,  
   durch elektromagnetisches Zusammenspiel mit dem Hirnwasser,  
   entstehen lassen könnten,  
@@ -972,12 +972,12 @@ der neu zu fassenden Algebra.
 Somit sind Impulse,  
 aus der sensorischen Eingabeschicht stammend,  
 verarbeitet durch ein räumliches Netzwerk,  
-von synaptischen Knoten und Ganglien,  
+von synaptischen Knoten und Axone,  
 bis hin zu den Actor Layers (Handlungsschichten),  
 wo sie die Handlungsvorgänge auslösen,  
 alles was im Vordergrund stand.  
 
-(Ganglien sind Nervenbahnen,  
+(Axone sind Nervenbahnen,  
 welche zwischen den Synaptischen Knoten,  
 die Impulse weiterleiten)  
 
@@ -1031,7 +1031,7 @@ in einem sich dynamisch entwickelnden
 
 Räumlich nahe benachbarte Impulse  
 erzeugen in einer räumlichen neuronalen Struktur  
-neue Brücken bildende Ganglien zwischen den Synaptischen Knoten und  
+neue Brücken bildende Axone zwischen den Synaptischen Knoten und  
 interagieren zusammen, in Form von gegenseitigem beeinflussen,  
 bei der Wahl, des weiteren zu benutzenden Pfades, durch das Netzwerk.  
 
@@ -1050,7 +1050,7 @@ folgende Gesetzmäßigkeiten bewerkstelligen:
 1. (EM-Nahfeld Quantenphysik + Hirn-Liquor)  
    Synaptische Knoten  
    werden in verschiedenen Ausprägungen  
-   mit neuen Ganglien gebrückt.  
+   mit neuen Axone gebrückt.  
   
 2. (Rezeptor und Neurotransmitterlogik)  
    Impulse verzweigen  
@@ -1063,43 +1063,43 @@ folgende Gesetzmäßigkeiten bewerkstelligen:
 Dieses Beispiel soll die Plausibilität beschreiben.  
 
 Ein einfacher Impulstransport  
-über ein Ganglion "G1"  
-vom Sensor "G1-S" zu einem Aktor "G1-A"  
+über ein Axon "A1"  
+vom Sensor "A1-S" zu einem Aktor "A1-A"  
 mit genau einem Synaptischen Knoten "SK-A".  
 
-Vom Sensor "G1-S" werden stetig Impulse erzeugt und  
-über die "G1" Leitung und den Knoten "G1-SK-A"  
-zu "G1-A" übertragen.  
+Vom Sensor "A1-S" werden stetig Impulse erzeugt und  
+über die "A1" Leitung und den Knoten "A1-SK-A"  
+zu "A1-A" übertragen.  
 
 (Wie zuvor beschrieben:  
 Ein einzelner Impuls ist nicht Lebensfähig)  
 
-Nun fügen wir ein zweites Ganglion "G2" hinzu.  
-"G2" wird vom Sensor "G2-S" mit Impulsen versorgt.  
-Auch "G2" hat einen Synaptischen Knoten "G2-SK-B",  
-welcher nahe des "G1-SK-A" Knotens liegt.  
-Die "G2" Leitung endet dann im "G2-A" Aktor.  
+Nun fügen wir ein zweites Axon "A2" hinzu.  
+"A2" wird vom Sensor "A2-S" mit Impulsen versorgt.  
+Auch "A2" hat einen Synaptischen Knoten "A2-SK-B",  
+welcher nahe des "A1-SK-A" Knotens liegt.  
+Die "A2" Leitung endet dann im "A2-A" Aktor.  
 
 In diesem Szenario,  
 werden anfangs Impulse,  
 stetig von den Sensoren  
-"G1-S" und "G2-S"  
+"A1-S" und "A2-S"  
 über die Leitungen  
-"G1" und "G2"  
+"A1" und "A2"  
 zu den Aktoren  
-"G1-A" und "G2-A"  
+"A1-A" und "A2-A"  
 gesendet.  
 
 Dieses passiert solange,  
 bis zwei Impulse zeitgleich,  
-an den Knoten "G1-SK-A" und "G2-SK-B"  
+an den Knoten "A1-SK-A" und "A2-SK-B"  
 einen Brücken bildenden Vorgang erzeugen.  
 
 Dann verändert sich das Verhalten  
 in der Art und Weise,  
-als das die Impulse in "G1"  
+als das die Impulse in "A1"  
 über die neu entstandene Brücke  
-bedingt nach "G2" umgeleitet werden.  
+bedingt nach "A2" umgeleitet werden.  
 
 Dieses Verhalten entspricht  
 den beiden Fundamentalsätzen  
@@ -1111,7 +1111,7 @@ Der 1. Fundamentalsatz
 wird verwirklicht,  
 durch die Brückenbildung  
 der Synaptischen Knoten  
-"G1-SK-A" und "G2-SK-B".  
+"A1-SK-A" und "A2-SK-B".  
   
 Der 2. Fundamentalsatz  
 wird verwirklicht,  
@@ -1123,41 +1123,41 @@ durch Impulse aktiv sind.
   
 Dadurch werden die zeitgleich,  
 durch Impulse aktiven Knoten  
-"G1-SK-A" und "G2-SK-B"  
+"A1-SK-A" und "A2-SK-B"  
 dazu gebracht den Impuls umzuleiten.  
   
 Somit wird der Impuls  
-von "G1-S"  
+von "A1-S"  
 in der Weise beeinflusst,  
 als dass dann gilt:  
   
-"G1-S => G2-A" statt "G1-S => G1-A"  
+"A1-S => A2-A" statt "A1-S => A1-A"  
   
 Aus:  
-"G1-S" => "G1-A" und  "G2-S" => "G2-A"  
+"A1-S" => "A1-A" und  "A2-S" => "A2-A"  
 folgt:  
-"G1-S" => "G1-A" wird zu "G1-S" => "G2-A"  
+"A1-S" => "A1-A" wird zu "A1-S" => "A2-A"  
 durch:  
-"G1-S" && "G2-S" mit "G1-SK-A" && "G2-SK-B" => 2 * "G2-A"  
+"A1-S" && "A2-S" mit "A1-SK-A" && "A2-SK-B" => 2 * "A2-A"  
   
 Im bildlich Vergleich  
 zu einem Auto-Aktoron  
 bedeutet das:  
   
-"G1-S" sendet Impulse als Hunger Signal.  
-"G2-S" sendet Impulse als Verdauung gefüllt Signal.  
-"G1-A" bewirkt fressen.  
-"G2-A" bewirkt Sättigung.  
+"A1-S" sendet Impulse als Hunger Signal.  
+"A2-S" sendet Impulse als Verdauung gefüllt Signal.  
+"A1-A" bewirkt fressen.  
+"A2-A" bewirkt Sättigung.  
   
-"G2-A" konsumiert einen doppelten Impuls,  
+"A2-A" konsumiert einen doppelten Impuls,  
 um das Sättigungsverhalten zu terminieren.  
 ```
 
 Der **SupraSeed** (Superkeim) in diesem Szenario ist der,  
-dass zwei Ganglien räumlich so gelegt sind,  
+dass zwei Axone räumlich so gelegt sind,  
 als dass ihre Knoten geplant interagieren werden.  
 
-Somit haben wir mit nur zwei Leitungen "G1" und "G2"  
+Somit haben wir mit nur zwei Leitungen "A1" und "A2"  
 eine Entwicklung durch die Brückenbildung erwirkt,  
 welche dem Auto-Aktoron geplant,  
 das Verhalten impliziert,  
@@ -1317,7 +1317,7 @@ der Nerven herbei führen.
    von Schmerz mit übermäßig intensiven Impulsen,  
    sind folgende Dinge in Betracht zu ziehen:  
    1. Schmerzgedächtnis durch erweiterte Verkettung von exponentielle überhöhten Energiepotentialen  
-   2. (Vorübergehende) Strukturelle Schäden der Ganglien und Knoten  
+   2. (Vorübergehende) Strukturelle Schäden der Axone und Knoten  
    3. Vorgang von impulsivem Schmerzrauschen (Noise),  
       welcher die neuronale Informationsverarbeitung  
       schädigend beeinflusst  
@@ -1497,7 +1497,7 @@ aus zwei Betrachtungsweisen bedacht werden.
          innerhalb einer Zeitspanne.  
 
 2. Reproduzierte Impuls-Potential  
-   Spiegelung von Impulsen von einem Ganglion zu einem anderem.  
+   Spiegelung von Impulsen von einem Axon zu einem anderem.  
    Für eine bessere Mustererkennung ergibt sich ein Bedarf  
    nach einer Impulsquantisierung.  
 
@@ -1527,19 +1527,19 @@ aus zwei Betrachtungsweisen bedacht werden.
    Erklärung einer Differentialbildung,  
    von einem Impulsstrom auf einer (oder mehreren) Leitung(en).  
 
-   Wir brauchen auf einem Ganglion G1,  
+   Wir brauchen auf einem Axon A1,  
    in einer räumlichen nähe von  
    zwei aufeinanderfolgenden Knoten,  
-   G1-K1 und G1-K2 eine weitere Verknüpfung  
-   dieser Knoten auf einem weiteren Knoten G2-K1  
-   auf eienm zweitem Ganglion G2.  
+   A1-K1 und A1-K2 eine weitere Verknüpfung  
+   dieser Knoten auf einem weiteren Knoten A2-K1  
+   auf einem zweitem Axon A2.  
 
-   Diese beiden Knoten G1-K1 und G1-K2  
-   müssen Ihre Impulse zu einem Knoten G2-K1 spiegeln und  
+   Diese beiden Knoten A1-K1 und A1-K2  
+   müssen Ihre Impulse zu einem Knoten A2-K1 spiegeln und  
    dort subtraktiv akkumuliert werden.  
 
-   Damit werden die aufeinanderfolgenden Impulse in G1,  
-   umgeformt in G2-K1 zu einem Differential.  
+   Damit werden die aufeinanderfolgenden Impulse in A1,  
+   umgeformt in A2-K1 zu einem Differential.  
 
    Das Ergebnis der subtraktiven Akkumulation der Impulse,  
    ist dann die Bildung eines Differentials,  
@@ -1923,15 +1923,15 @@ ist auch ein Umkehreffekt notwendig.
 
 In diesem Zusammenhang,  
 ist die Brückenbildung,  
-mit neuen Ganglien,  
+mit neuen Axone,  
 von gesondertem Bedarf.  
 
 Daher besteht die Notwendigkeit,  
-nach schon bestehenden Ganglien,  
+nach schon bestehenden Axone,  
 um auf diese, die Information zu entfalten.  
 
 Ein Ansatz ist,  
-die widerspiegelnde Bildung von Ganglien,  
+die widerspiegelnde Bildung von Axone,  
 ein anderer Ansatz ist der,  
 der Einsatz von Enumerativer Logik,  
 in Form von Sprache oder vergleichbarem.  
@@ -1945,18 +1945,18 @@ bedarf es:
 
 A. einer erneuernden Wirkung  
 Dieses könnte durch Impulstransport herbeigeführt werden,  
-welcher die Ganglien verdickt.  
+welcher die Axone verdickt.  
 
 B. eines Neuro-Genesis Effektes  
 Dieser könnte durch Teilung  
-langer Ganglien hervorgehen,  
+langer Axone hervorgehen,  
 welche mit verödeten Impulsen,  
 nur partielle Erneuerung nach A. erfahren und  
 ebenso dem Bedürfnis von verödend schwachen Impulsen.  
 
 In diesem Zusammenhang,  
 ist zu überdenken,  
-wie wir gebrochene Ganglien  
+wie wir gebrochene Axone  
 mit neuen Knoten erneuern würden,  
 in Anbetracht von  
 Rezeptor- und Neurotransmitterwahl.  
@@ -1968,8 +1968,8 @@ A. Regionale Abhängigkeiten ergeben.
 B. Interaktionsabhängigkeiten, wie affektiv-emotionale oder regulierende Effekte.  
 
 Damit sind (verödend schwache) Impulse  
-in den Ganglien Notwendig um  
-A. Eine Regeneration (Härtung) der Ganglien zu bewirken  
+in den Axone Notwendig um  
+A. Eine Regeneration (Härtung) der Axone zu bewirken  
 B. Eine Knotenbildung durch Verödung herbeizuführen.  
 
 ##### Kapitel 9: Höhere Bewusstseins Strukturen  
