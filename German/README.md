@@ -348,6 +348,12 @@ der nachfolgenden Abschnitte.
          Wer reinfällt, verschwindet.
       ```
 
+28. Zitat:
+
+      ```Cite
+         Die Menschheit ist sich selbst der größte Feind.
+      ```
+
 ## Das Projekt: Neuronale Spatio-Temporale Impuls Algebra  
 
 ### Vorwort zur ethischen Ansicht für dieses Werkes  
