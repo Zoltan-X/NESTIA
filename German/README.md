@@ -381,6 +381,14 @@ der nachfolgenden Abschnitte.
          die wahre Erkenntnis zu ziehen.
       ```
 
+29. Selbstzitat:
+
+      ```Cite
+         Straft mich Lügen,
+         aber nehmt mich mit,  
+         Wenn es besser wird.
+      ```
+
 
 ## Das Projekt: Neuronale Spatio-Temporale Impuls Algebra  
 
