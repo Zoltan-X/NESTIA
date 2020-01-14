@@ -104,6 +104,7 @@ werden vom Autor, als dafür hilfreich erachtet.
       Wissenschaftliche Auseinandersetzung  
       mit den Möglichkeiten und Folgen  
       bei und zu der Entstehung einer Super Intelligenz.  
+   4. Richard David Precht: Er bin ich und wenn ja, wie viele?
 
 ## Zitate-Sammlung  
 
