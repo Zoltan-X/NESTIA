@@ -354,6 +354,34 @@ der nachfolgenden Abschnitte.
          Die Menschheit ist sich selbst der größte Feind.
       ```
 
+29. Zitat:
+
+      ```Cite
+         Die Antwort, die man sucht,
+         die man aber in schon in sich hat,
+         ist vielmals nicht die Antwort,
+         die man haben will.
+      ```
+30. Zitat:
+
+      ```Cite
+         Tabus beim denken,  
+         verhindern eine ehrliche Selbsterkenntnis.
+         Aber frei zu denken,  
+         ist nicht zwingend  
+         das begehen eines tabu Bruches.
+         Somit ist der Stein des Anstoßes,  
+         für eine Neuausrichtung frei.
+      ```
+31. Zitat:
+
+      ```Cite
+         Liebe, Kraft, Mut und Weisheit für die richtigen Entscheidungen,  
+         aber auch ganz viel Licht um in den Wirren der Beschönigungen,
+         die wahre Erkenntnis zu ziehen.
+      ```
+
+
 ## Das Projekt: Neuronale Spatio-Temporale Impuls Algebra  
 
 ### Vorwort zur ethischen Ansicht für dieses Werkes  
