@@ -70,7 +70,8 @@ werden vom Autor, als dafür hilfreich erachtet.
       1. Wiktionary: Das Wörterbuch der Wikimedia Foundation  
       2. Das Sieb des Eratosthenes  
       3. [Nozizeptoren](https://de.m.wikipedia.org/wiki/Nozizeptor)
-      4. ...  
+      4. [CREB Protein](https://de.wikipedia.org/wiki/CREB-1)  
+      5. ...  
    2. pubmed.nist.gov:  
       Amtliche, öffentlich zugängliche Sammlung  
       von medizinischen Forschungsberichten  
@@ -1090,7 +1091,7 @@ folgende Gesetzmäßigkeiten bewerkstelligen:
 ##### Impuls Interaktions Regeln  
 
 ```Rule  
-1. (EM-Nahfeld Quantenphysik + Hirn-Liquor)  
+1. (EM-Nahfeld Quantenphysik + Hirn-Liquor Stichwort: [CREB Protein](https://de.wikipedia.org/wiki/CREB-1))  
    Synaptische Knoten  
    werden in verschiedenen Ausprägungen  
    mit neuen Axone gebrückt.  
