@@ -105,10 +105,10 @@ werden vom Autor, als dafür hilfreich erachtet.
       Wissenschaftliche Auseinandersetzung  
       mit den Möglichkeiten und Folgen  
       bei und zu der Entstehung einer Super Intelligenz.  
-   4. Richard David Precht: Er bin ich und wenn ja, wie viele?
+   4. Richard David Precht: Er bin ich und wenn ja, wie viele?  
       Philosophische Reise über die Inhalte von bisherigen Philosophen und  
       deren Ansichten und Anschaungen über das menschlichen Sein,  
-      mit Verweisen zu wissenschaftlichen Belegen bzw. Widerlegungen.
+      mit Verweisen zu wissenschaftlichen Belegen bzw. Widerlegungen.  
 
 ## Zitate-Sammlung  
 
@@ -1276,13 +1276,16 @@ Es gibt verschiedene Gefühle,
 aber keine vollständige Liste.  
 Viele davon gehören zu Bewertungen,  
 wo wir uns nicht erklären können,  
-warum logisch richtige Entscheidungen  
-auch mit Unbehagen einhergehen tun.  
+warum z.bsp. positive und logisch richtige Entscheidungen  
+trotzdem auch mit Unbehagen einhergehen können.  
+
 Aber es sind Emotionen,  
 die unsere Wahrnehmung färben und  
 somit unser Werten.   
+
 Daher Verhalten sich auch alle Gefühle ähnlich.  
-Sie neigen nicht von anhaltender dafür zu sein,  
+
+Sie neigen nicht von anhaltender Dauer zu sein,  
 und alle beschreiben Differenzen,  
 von Wahrnehmungen,  
 bilden also ein Differential  
@@ -1294,7 +1297,7 @@ werden wieder differenziert.
 Somit haben wir Trends wie,
 Steigung und Krümmung einer Wertefolge,  
 als Bewertungsparadigma vom Unterbewusstsein  
-als Gefühle (Emotionen) in uns drin.
+von Gefühlen (Emotionen) in uns drin.
 
 ###### 1. Freude  
 
