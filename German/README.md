@@ -1284,20 +1284,20 @@ die unsere Wahrnehmung färben und
 somit unser Werten.   
 
 Daher Verhalten sich auch alle Gefühle ähnlich.  
-
-Sie neigen nicht von anhaltender Dauer zu sein,  
-und alle beschreiben Differenzen,  
-von Wahrnehmungen,  
-bilden also ein Differential  
+  
+Sie neigen nicht von anhaltender Dauer zu sein,   
+und alle beschreiben Differenzen,   
+von Wahrnehmungen,   
+bilden also ein Differential   
 unseres Unterbewusstseins.  
-
+  
 Letzteres arbeitet unbewusst in uns,  
 und auch die Differentiale,  
-werden wieder differenziert.
-Somit haben wir Trends wie,
+werden wieder differenziert.  
+Somit haben wir Trends wie,  
 Steigung und Krümmung einer Wertefolge,  
 als Bewertungsparadigma vom Unterbewusstsein  
-von Gefühlen (Emotionen) in uns drin.
+von Gefühlen (Emotionen) in uns drin.  
 
 ###### 1. Freude  
 
