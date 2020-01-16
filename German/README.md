@@ -106,6 +106,9 @@ werden vom Autor, als dafür hilfreich erachtet.
       mit den Möglichkeiten und Folgen  
       bei und zu der Entstehung einer Super Intelligenz.  
    4. Richard David Precht: Er bin ich und wenn ja, wie viele?
+      Philosophische Reise über die Inhalte von bisherigen Philosophen und  
+      deren Ansichten und Anschaungen über das menschlichen Sein,  
+      mit Verweisen zu wissenschaftlichen Belegen bzw. Widerlegungen.
 
 ## Zitate-Sammlung  
 
@@ -388,7 +391,7 @@ der nachfolgenden Abschnitte.
       ```Cite
          Straft mich Lügen,
          aber nehmt mich mit,  
-         Wenn es besser wird.
+         wenn es besser wird.
       ```
 
 
@@ -1266,6 +1269,32 @@ so folgen nun 12 Kapitel,
 welche weitere Regeln beschreiben.  
 
 ##### Kapitel 1: Gefühle  
+  
+###### Vorwort
+
+Es gibt verschiedene Gefühle,  
+aber keine vollständige Liste.  
+Viele davon gehören zu Bewertungen,  
+wo wir uns nicht erklären können,  
+warum logisch richtige Entscheidungen  
+auch mit Unbehagen einhergehen tun.  
+Aber es sind Emotionen,  
+die unsere Wahrnehmung färben und  
+somit unser Werten.   
+Daher Verhalten sich auch alle Gefühle ähnlich.  
+Sie neigen nicht von anhaltender dafür zu sein,  
+und alle beschreiben Differenzen,  
+von Wahrnehmungen,  
+bilden also ein Differential  
+unseres Unterbewusstseins.  
+
+Letzteres arbeitet unbewusst in uns,  
+und auch die Differentiale,  
+werden wieder differenziert.
+Somit haben wir Trends wie,
+Steigung und Krümmung einer Wertefolge,  
+als Bewertungsparadigma vom Unterbewusstsein  
+als Gefühle (Emotionen) in uns drin.
 
 ###### 1. Freude  
 
