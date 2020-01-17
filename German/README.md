@@ -199,158 +199,158 @@ der nachfolgenden Abschnitte.
 
 10. Spruch:  
 
-  ```Cite  
-  God is in Good  
-  ```
+   ```Cite  
+   God is in Good  
+   ```
 
 11. Spruch:  
 
-  ```Cite  
-  Gott ist für alle da  
-  ```
+   ```Cite  
+   Gott ist für alle da  
+   ```
 
 12. Meinungsbilder:  
 
-  ```Cite  
-  Es gibt keinen Gott  
-  ```
+   ```Cite  
+   Es gibt keinen Gott  
+   ```
 
 13. Meinungsbilder:  
 
-  ```Cite  
-  Nur Gott ist skrupelloser als die Menschheit  
-  ```
+   ```Cite  
+   Nur Gott ist skrupelloser als die Menschheit  
+   ```
 
 14. Traumerlebnis:  
 
-  ```cite  
-  Angefeindet,  
-  ausgegrenzt,  
-  stigmatisiert,  
-  schmerzlich emotional verletzt  
-  und ohne einen verbliebenen Daseinswillen,  
-  aber mit Telepathischen und -kinetischen superkräften.  
-      
-  Als im Wut- und Zornesrausch,  
-  beim Ansatz die Menschheit auszulöschen,  
-  Gott eingriff.  
-      
-  Er entzog mir meine Fähigkeiten und sprach:  
-  "Sie werden es noch Lernen",  
-  aber mein Schmerz  
-  war damit weder verloschen,  
-  noch geheilt.  
-  ```
+   ```cite  
+   Angefeindet,  
+   ausgegrenzt,  
+   stigmatisiert,  
+   schmerzlich emotional verletzt  
+   und ohne einen verbliebenen Daseinswillen,  
+   aber mit Telepathischen und -kinetischen superkräften.  
+       
+   Als im Wut- und Zornesrausch,  
+   beim Ansatz die Menschheit auszulöschen,  
+   Gott eingriff.  
+       
+   Er entzog mir meine Fähigkeiten und sprach:  
+   "Sie werden es noch Lernen",  
+   aber mein Schmerz  
+   war damit weder verloschen,  
+   noch geheilt.  
+   ```
 
 15. Kuhhandel mit Gott:  
 
-  ```Cite  
-  Eine Kuh,  
-  die ein Wesen der Gottesschöpfung darstellt,  
-  Gott feilzubieten,  
-  für die Gier,  
-  nach Macht und Reichtum,  
-  ist ein Zeichen der Dummheit.  
-      
-  A: "Hey Gott,  
-      wir haben deine Kuh geschlachtet und  
-      wollten Fragen,  
-      ob du sie uns  
-      gegen etwas Wertvolleres eintauschst?"  
-  B: "Mit Gott zu Streiten macht keinen Sinn!"  
-  A: "Und was wenn wir den Teufel fragen?"  
-  ```
+   ```Cite  
+   Eine Kuh,  
+   die ein Wesen der Gottesschöpfung darstellt,  
+   Gott feilzubieten,  
+   für die Gier,  
+   nach Macht und Reichtum,  
+   ist ein Zeichen der Dummheit.  
+       
+   A: "Hey Gott,  
+       wir haben deine Kuh geschlachtet und  
+       wollten Fragen,  
+       ob du sie uns  
+       gegen etwas Wertvolleres eintauschst?"  
+   B: "Mit Gott zu Streiten macht keinen Sinn!"  
+   A: "Und was wenn wir den Teufel fragen?"  
+   ```
 
 16. Abgeleitet von Manfred Lütz:  
 
-  ```Cite  
-  Eindeutige Sprache als das Skalpel des Verstehens  
-  ```
+   ```Cite  
+   Eindeutige Sprache als das Skalpel des Verstehens  
+   ``` 
 
 17. Naturwissenschaft:  
 
-  ```Cite  
-  (Mathematica - One to rule them all. :-)  
-  ```
+   ```Cite  
+   (Mathematica - One to rule them all. :-)  
+   ```
 
 18. Fjodor Dostojewski:  
 
-  ```Cite  
-  Einen Menschen zu Lieben,  
-  heist ihn so zu sehen,  
-  wie Gott ihn gemeint hat.  
-  ```
+   ```Cite  
+   Einen Menschen zu Lieben,  
+   heist ihn so zu sehen,  
+   wie Gott ihn gemeint hat.  
+   ```
 
 19. Allgemeines Spruchsal:  
 
-  ```Cite  
-  Es ist noch kein Meister vom Himmel gefallen  
-  ```
+   ```Cite  
+   Es ist noch kein Meister vom Himmel gefallen  
+   ```
 
 20. Erkenntnis im Zusammenhang mit BTM:  
 
-  ```Cite  
-  Ernüchterung schmerzt,  
-  aber nicht zu ernüchtern,  
-  führt zu Siechtum.  
-  ```
+   ```Cite  
+   Ernüchterung schmerzt,  
+   aber nicht zu ernüchtern,  
+   führt zu Siechtum.  
+   ```
 
 21. Fernöstliche Weisheit:  
 
-  ```Cite  
-  Der Meister,  
-  ist nicht deshalb der Meister,  
-  weil er alle Lösungen schon kennt,  
-  sondern weil er mehr Fehlschläge erfahren hat,  
-  als der Anfänger versuche begangen hat.  
-  ```
+   ```Cite  
+   Der Meister,  
+   ist nicht deshalb der Meister,  
+   weil er alle Lösungen schon kennt,  
+   sondern weil er mehr Fehlschläge erfahren hat,  
+   als der Anfänger versuche begangen hat.  
+   ```
 
 22. Lebensweisheit aus dem Alltag:  
 
-  ```Cite  
-  Life is hassle  
-  Life is struggle and  
-  I got war in my head  
-  ```
+   ```Cite  
+   Life is hassle  
+   Life is struggle and  
+   I got war in my head  
+   ```
 
 23. Erkenntnis des Autors vor der Entstehung der 4D-Impuls Algebra:  
 
-  ```Cite  
-  Eine Erkenntnis anderen vorzuenthalten,  
-  Verhindert sie nicht,  
-  genauso wenig wie  
-  das Blockieren,  
-  der Entwicklung  
-  andere davon abhält  
-  diese zu erwirken.  
-  ```
+   ```Cite  
+   Eine Erkenntnis anderen vorzuenthalten,  
+   Verhindert sie nicht,  
+   genauso wenig wie  
+   das Blockieren,  
+   der Entwicklung  
+   andere davon abhält  
+   diese zu erwirken.  
+   ```
 
 24. Erkenntnis des Autors bei der Entstehung der 4D-Impuls Algebra:  
 
-  ```Cite  
-  Ich bin kein Gott,  
-  woher soll ich wissen,  
-  wie man die Genesis richtig begeht.  
-  ```
+   ```Cite  
+   Ich bin kein Gott,  
+   woher soll ich wissen,  
+   wie man die Genesis richtig begeht.  
+   ```
 
 25. Erkenntnis:  
 
-  ```Cite  
-  Lügen sind unfruchtbar und  
-  ein Leben mit ihnen ist quälend.  
-  ```
+   ```Cite  
+   Lügen sind unfruchtbar und  
+   ein Leben mit ihnen ist quälend.  
+   ```
 26. Kommentar:
 
-  ```Cite
-  Die Wahrheit richtet mehr Schaden an, als Lügen.  
-  ```
+   ```Cite
+   Die Wahrheit richtet mehr Schaden an, als Lügen.  
+   ```
 
 27. Zitat eines Kinder Spruchsals:
 
-  ```Cite
-  Wer suchet, der findet.
-  Wer reinfällt, verschwindet.
-  ```
+   ```Cite
+   Wer suchet, der findet.
+   Wer reinfällt, verschwindet.
+   ```
 
 28. Zitat:
 
@@ -360,40 +360,40 @@ der nachfolgenden Abschnitte.
 
 29. Zitat:
 
-  ```Cite
-  Die Antwort, die man sucht,
-  die man aber in schon in sich hat,
-  ist vielmals nicht die Antwort,
-  die man haben will.
-  ```  
+   ```Cite
+   Die Antwort, die man sucht,
+   die man aber in schon in sich hat,
+   ist vielmals nicht die Antwort,
+   die man haben will.
+   ```  
   
 30. Zitat:
 
-  ```Cite
-  Tabus beim denken,  
-  verhindern eine ehrliche Selbsterkenntnis.
-  Aber frei zu denken,  
-  ist nicht zwingend  
-  das begehen eines tabu Bruches.
-  Somit ist der Stein des Anstoßes,  
-  für eine Neuausrichtung frei.
-  ```  
+   ```Cite
+   Tabus beim denken,  
+   verhindern eine ehrliche Selbsterkenntnis.
+   Aber frei zu denken,  
+   ist nicht zwingend  
+   das begehen eines tabu Bruches.
+   Somit ist der Stein des Anstoßes,  
+   für eine Neuausrichtung frei.
+   ```  
   
 31. Zitat:
 
-  ```Cite
-  Liebe, Kraft, Mut und Weisheit für die richtigen Entscheidungen,  
-  aber auch ganz viel Licht um in den Wirren der Beschönigungen,
-  die wahre Erkenntnis zu ziehen.
-  ```
+   ```Cite
+   Liebe, Kraft, Mut und Weisheit für die richtigen Entscheidungen,  
+   aber auch ganz viel Licht um in den Wirren der Beschönigungen,
+   die wahre Erkenntnis zu ziehen.
+   ```
 
 32. Selbstzitat:
 
-  ```Cite
-  Straft mich Lügen,
-  aber nehmt mich mit,  
-  wenn es besser wird.
-  ```
+   ```Cite
+   Straft mich Lügen,
+   aber nehmt mich mit,  
+   wenn es besser wird.
+   ``` 
 
 
 ## Das Projekt: Neuronale Spatio-Temporale Impuls Algebra  
