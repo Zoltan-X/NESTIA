@@ -1,8 +1,8 @@
 # Das Manifest  
 
 Die Kernidee dieses Repositories,  
-steht im [Manifest.md](Manifest) Dokument,  
-trotzdem ist das Dokument [Superkognition.md](Superkognition)
+steht im [Manifest.md](Manifest.md) Dokument,  
+trotzdem ist das Dokument [Superkognition.md](Superkognition.md)
 ein ausgekapselter Zusatz,  
 welcher im Rahmen dieses Projektes  
 als separates Dokument hinzugefügt wurde.  
