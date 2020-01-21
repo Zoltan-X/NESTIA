@@ -153,11 +153,12 @@ der nachfolgenden Abschnitte.
 3. Erkenntnis:  
 
    ```Cite  
-   Die Schuld des Einen ist der Ärger des Anderen  
+   Die Schuld des Einen ist der Ärger des Anderen und  
+   Verantwortung lässt sich nicht delegieren,  
+   denn sie ist eine offene Schuld.  
    ```
 
 4. Bhuddismus:  
-
    ```Cite  
    Leben ist das Leiden der Bedürfnisse  
    ```
