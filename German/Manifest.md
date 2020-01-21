@@ -20,6 +20,18 @@ so sind meine Ansätze der Wörter Definitionen eher
 von der etymologischen Betrachtungsweise geprägt,  
 als von dem Gebrauch im Zusammenhang.  
 
+Ferner möchte ich an dieser Stelle darauf verweisen,  
+dass wenn intellektuelle Ansprüche von dritten  
+verletzt worden sind,  
+das diese ihre Ansprüche entsprechend belegt bekunden und  
+auch den Zeitpunkt beleghaft definieren.  
+
+Ich möchte mit diesem Werk 
+Niemanden seiner Leistungen berauben,  
+aber einfache Plagiatstest,  
+haben mir die Einzigartigkeit,  
+meiner Ausarbeitung bescheinigt.
+
 ## Grundlagen  
 
 ### Verwendete Kürzel  
