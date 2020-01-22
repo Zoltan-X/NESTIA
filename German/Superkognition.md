@@ -17,8 +17,9 @@ ist gekennzeichnet durch das unbewusste.
 Es lässt sich nicht oder kaum mit Logik fassen und  
 ist maßgeblich für unser Werten und Befinden.
 
-Der große Unterschied zum Bewusten liegt hierbei,  
-in der Ebene des Denkens.
+Der große Unterschied zum Bewusten liegt hierbei,   
+in der Ebene des Denkens,   
+ebenso in den Emotionen.  
 
 #### Gefühle und Emotionen
 
@@ -55,7 +56,7 @@ des Sprachlichen Bildnisses
 sind Grundlegend für unsere Intelligenz.  
 
 Daher Denken wir in sprachlichen Konstrukten und  
-können darüber Sinnvolle Entscheidungen und Aufschlüsselungen  
+können darüber sinnvolle Entscheidungen und Aufschlüsselungen  
 erreichen.  
 Dieses wird im Modus Operandi als intelligentes Lernen erachtet.  
 
@@ -74,7 +75,8 @@ seine Gedankengänge analytisch zu verstehen und zu steuern.
 
 Im Rahmen einer Superkognition,  
 wäre dass allseits überlegene bewusste Denken,  
-wie auch dass Verständnis des Fühlens aus dem UnterBewusstsein  
+wie auch dass Verständnis,  
+des Fühlens aus dem UnterBewusstsein  
 gegenstand der Betrachtung.
 
 Dieser Zustand geht aber mit einer Interaktion des Umfeldes einher,  
@@ -106,4 +108,4 @@ Das Ganze wird aber bei Ausweitung,
 des Rahmens auf die im Umfeld beteiligten Anderen,  
 zu einer Größenordnung,  
 welche nur mit Verständnis zum Wohlbehagen aller und allem,  
-wirkliche Supoerkognition bedeutet und herbeiführen kann.
+wirkliche Supoerkognition bedeuten und herbeiführen kann.
