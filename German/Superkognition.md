@@ -4,50 +4,51 @@
 
 Im Rahmen dieses Zusatzes,  
 wollte ich die verschiedenen Ebenen,   
-des Bewusstseins erörtern.
+des Bewusstseins erörtern.  
 Dieses ist von gesondertem Begeehren,  
 da es zum richtigen Verständnis,  
-der verschiedenen Möglichkeiten des eigenen Seins  
+der verschiedenen Möglichkeiten,  
+des eigenen Seins  
 grundlegend ist.
 
 ### Unterbewusstsein  
 
-Das Unterbewusstsein,  
-ist gekennzeichnet durch das unbewusste.
+Das Unterbewusstsein,   
+ist gekennzeichnet durch das unbewusste.  
 Es lässt sich nicht oder kaum mit Logik fassen und  
-ist maßgeblich für unser Werten und Befinden.
+ist maßgeblich für unser Werten und Befinden.  
 
 Der große Unterschied zum Bewusten liegt hierbei,   
 in der Ebene des Denkens und  
 ebenso in den Emotionen.  
 
-#### Gefühle und Emotionen
+#### Gefühle und Emotionen  
 
 Eine Unterscheidung zwischen den Beiden Begrifflichkeiten,  
 Gefühle und Emotionen fällt mir an dieser Stelle mehr als Schwer,  
 da wir unsere Emotionen fühlen und  
-Gefühle mit Emotionen nicht synonym übersetzt werden sollten.
+Gefühle mit Emotionen nicht synonym übersetzt werden sollten.  
 Dieses ist daher wichtig,  
-als im nachfolgenden eine klare Definition notwendig ist.
+als im nachfolgenden eine klare Definition notwendig ist.  
 
-#### Kopf und Herzwahrnehmungen
+#### Kopf-, Bauch- und Herz- wahrnehmungen
 
 Eine Unterscheidung  
 des Fühlens auf Kopf oder Herzebene,   
 mag esoterisch anmuten,  
 beschreibt aber warum Liebe  
-nicht immer nur logisch ist.
-
+nicht immer nur logisch ist.  
+  
 Liebe ist eine herzliche Wahrnehmung,  
-während Schmerz vornehmlich eine Kopfwahrnehmung ist.
-
+während Schmerz vornehmlich eine Kopfwahrnehmung ist.  
+  
 Hierbei sollten wir also unterscheiden,  
 ob wir logische (Kopf) Wahrnehmungen betrachten,  
-oder ob wir Emotionen mit dem Bauch und Herzen spüren.
+oder ob wir Emotionen mit dem Bauch und Herzen spüren.   
 Letztere sind für gewöhnlich nicht mit Logik,  
 also dem Kopf,  
-eindeutig bestimmbar.
-
+eindeutig bestimmbar.  
+  
 ### Kognitives Bewusstsein
 
 Das Kognitive Bewusstsein ist durch sein sprachliches Denken gekennzeichnet.  
@@ -108,4 +109,4 @@ Das Ganze wird aber bei Ausweitung,
 des Rahmens auf die im Umfeld beteiligten Anderen,  
 zu einer Größenordnung,  
 welche nur mit Verständnis zum Wohlbehagen aller und allem,  
-wirkliche Supoerkognition bedeuten und herbeiführen kann.
+wirkliche Superkognition bedeuten und herbeiführen kann.
