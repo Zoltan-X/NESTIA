@@ -361,8 +361,10 @@ der nachfolgenden Abschnitte.
 27. Zitat eines Kinder Spruchsals:
 
    ```Cite
-   Wer suchet, der findet.
-   Wer reinfällt, verschwindet.
+   Wer suchet,  
+       der findet.
+   Wer reinfällt,  
+     verschwindet.
    ```
 
 28. Zitat:
@@ -375,7 +377,7 @@ der nachfolgenden Abschnitte.
 
    ```Cite
    Die Antwort, die man sucht,
-   die man aber in schon in sich hat,
+   welche man aber schon in sich hat,
    ist vielmals nicht die Antwort,
    die man haben will.
    ```  
