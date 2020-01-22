@@ -18,7 +18,7 @@ Es lässt sich nicht oder kaum mit Logik fassen und
 ist maßgeblich für unser Werten und Befinden.
 
 Der große Unterschied zum Bewusten liegt hierbei,   
-in der Ebene des Denkens,   
+in der Ebene des Denkens und  
 ebenso in den Emotionen.  
 
 #### Gefühle und Emotionen
