@@ -24,12 +24,24 @@ ebenso in den Emotionen.
 
 #### Gefühle und Emotionen  
 
-Eine Unterscheidung zwischen den Beiden Begrifflichkeiten,  
-Gefühle und Emotionen fällt mir an dieser Stelle mehr als Schwer,  
+Eine Unterscheidung  
+zwischen den beiden Begrifflichkeiten,  
+Gefühle und Emotionen,  
+fällt mir an dieser Stelle  
+mehr als Schwer,  
 da wir unsere Emotionen fühlen und  
-Gefühle mit Emotionen nicht synonym übersetzt werden sollten.  
+Gefühle mit Emotionen nicht synonym sind.  
 Dieses ist daher wichtig,  
-als im nachfolgenden eine klare Definition notwendig ist.  
+als im nachfolgenden  
+eine klare Definition notwendig ist.  
+
+Emotionen lassen sich nur bedingt Steuern.  
+Die häufigsten Ansätze hierzu sind  
+A.) Die Unterdrückung  
+B.) Das auch reinsteigern  
+aber gute Schauspieler beherrschen zumeist auch  
+das auch
+C. Das sich hineinversetzen.
 
 #### Kopf-, Bauch- und Herz- wahrnehmungen
 
