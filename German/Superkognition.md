@@ -40,8 +40,8 @@ Die häufigsten Ansätze hierzu sind
 A.) Die Unterdrückung  
 B.) Das auch reinsteigern  
 aber gute Schauspieler beherrschen zumeist auch  
-das auch
-C. Das sich hineinversetzen.
+das auch  
+C.) Das sich hineinversetzen.
 
 #### Kopf-, Bauch- und Herz- wahrnehmungen
 
