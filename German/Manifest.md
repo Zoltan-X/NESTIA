@@ -660,10 +660,11 @@ unsere Realität zu verlassen und in sie zurückzukehren.
    2. Gemeinschaft  
       1. Akzeptanz und Ablehnung: Kriterien des Miteinanders zum Behagen  
       2. Anti-Eskalative Kommunikation  
-				* Leiden bekunden ohne Fingerpointing
-				* Neutralen Wunsch Bekunden ohne Aufgaben den Anderen zu zuweisen
-				* Die Anderen befragen nach deren Wahrnehmung zum BEkundetem Leiden
-				* Den Anderen Unterstützung anbieten und sie sich selbstbestimmt einbringen lassen.
+         (Deescalative Behavioral Therapy)
+			* Leiden bekunden ohne Fingerpointing
+			* Neutralen Wunsch Bekunden ohne Aufgaben den Anderen zu zuweisen
+			* Die Anderen befragen nach deren Wahrnehmung zum bekundetem Leiden
+			* Den Anderen Unterstützung anbieten und sie sich selbstbestimmt einbringen lassen.
       3. Intervention  
    3. Extreme und die goldene Mitte  
    4. Glauben, Verständnis und Entspannungsstrategien  
