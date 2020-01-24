@@ -39,9 +39,8 @@ Emotionen lassen sich nur bedingt Steuern.
 Die häufigsten Ansätze hierzu sind  
 A.) Die Unterdrückung  
 B.) Das auch reinsteigern  
-aber gute Schauspieler beherrschen zumeist auch  
-das auch  
-C.) Das sich hineinversetzen.
+aber gute Schauspieler beherrschen zumeist auch   
+C.) Das sich hineinversetzen.  
 
 #### Kopf-, Bauch- und Herz- wahrnehmungen
 
@@ -63,19 +62,28 @@ eindeutig bestimmbar.
   
 ### Kognitives Bewusstsein
 
-Das Kognitive Bewusstsein ist durch sein sprachliches Denken gekennzeichnet.  
-Die Zusammenhänge des Denkens und  
+Das Kognitive Bewusstsein  
+ist durch sein sprachliches Denken gekennzeichnet.   
+Das verlöschen von Gedanken  
+durch eine nicht weiter oder  
+zu Ende Formulierung im Sprachzentrum,  
+beendet alle kognitiven Gedanken und   
+führt zu einem Moment der völligen Losgelöstheit und  
+somit zu einem innerem Seelenfrieden.  
+
+Die Zusammenhänge des bewussten Denkens und  
 des Sprachlichen Bildnisses  
 sind Grundlegend für unsere Intelligenz.  
 
 Daher Denken wir in sprachlichen Konstrukten und  
-können darüber sinnvolle Entscheidungen und Aufschlüsselungen  
-erreichen.  
-Dieses wird im Modus Operandi als intelligentes Lernen erachtet.  
+können darüber sinnvolle Entscheidungen und  
+Aufschlüsselungen erreichen.  
+Dieses wird im Modus Operandi,  
+als intelligentes Lernen erachtet.  
 
 Unterhalb des kognitiven Denkens,  
 liegt das konditionierte Handeln und  
-eben das Unterbewusstsein.
+eben das Unterbewusstsein.  
 
 ### Meta Kognition
 
@@ -92,19 +100,23 @@ wie auch dass Verständnis,
 des Fühlens aus dem UnterBewusstsein  
 gegenstand der Betrachtung.
 
-Dieser Zustand geht aber mit einer Interaktion des Umfeldes einher,  
-wo die Auswirkungen der Anderen diesen Zustand sabotieren.  
+Dieser Zustand geht aber  
+auch mit einer Interaktion des Umfeldes einher,  
+wo die Auswirkungen der Anderen  
+diesen Zustand "sabotieren".   
 Demzufolge ist es hierfür wichtig  
 mit seinem Umfeld ein positives Behagen zu etablieren,  
 wodurch es möglich wird die Positiven Aspekte des Seins  
 an das Umfeld auszuweiten.  
 
 Eine negative Form der Interaktion,  
-ist als Versagen der Erkenntnisse zu Betrachten,  
+ist als Versagen,  
+der Erkenntnisse zu betrachten,  
 obgleich bei einem Selbst,  
-als auch bei seinem Umfeld.
+wie auch bei seinem Umfeld.
 
-Daher ist Superkognition dem Buddha Bewusstsein gleichzusetzen.
+Daher ist Superkognition  
+dem Buddha Bewusstsein gleichzusetzen.  
 
 ### Das Ich und die Anderen
 
@@ -118,7 +130,10 @@ welche sich unterschiedlich geben und
 in Ihrer Dominanz abwechseln.
 
 Das Ganze wird aber bei Ausweitung,  
-des Rahmens auf die im Umfeld beteiligten Anderen,  
+des Rahmens auf die  
+im Umfeld beteiligten Anderen,  
 zu einer Größenordnung,  
-welche nur mit Verständnis zum Wohlbehagen aller und allem,  
-wirkliche Superkognition bedeuten und herbeiführen kann.
+welche nur mit Verständnis  
+zum Wohlbehagen aller und allem,  
+wirkliche Superkognition bedeuten und  
+herbeiführen kann.
