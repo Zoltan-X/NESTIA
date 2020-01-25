@@ -13,5 +13,6 @@ aus philospischer Anschauungsweise dazugefügt.
 
 Ein Aufbau und eine Ausarbeitung,  
 von technischen Umsetzungen soll  
-durch beide Werke als vorbeschrieben erörtert sein.
-
+durch das Manifest als vorbeschrieben erörtert sein,  
+und die zusätzlichen Dokumente,  
+sollen Denkanstoß erachtet werden. 
