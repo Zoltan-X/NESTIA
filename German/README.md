@@ -7,6 +7,10 @@ ein ausgekapselter Zusatz,
 welcher im Rahmen dieses Projektes  
 als separates Dokument hinzugefügt wurde.  
 
+Ebenso, habe ich das Dokument: 
+[Utilitarismus, Wirklichkeit, Sein.md](Utilitarismus%2C%20Wirklichkeit%2C%20Sein.md)  
+aus philospischer Anschauungsweise dazugefügt.
+
 Ein Aufbau und eine Ausarbeitung,  
 von technischen Umsetzungen soll  
 durch beide Werke als vorbeschrieben erörtert sein.
