@@ -356,7 +356,6 @@ der nachfolgenden Abschnitte.
 
     ```Cite
     Die Wahrheit richtet mehr Schaden an, als Lügen.  
-V
     ```
 
 27. Zitat eines Kinder Spruchsals:
