@@ -7,8 +7,8 @@
 ```SQL
 -- Table for specifications of node types 
 
-id: integer  			-- Primary Key
-classification: string  -- see Description Section at Bottom of this Doc
+id: integer             -- Primary Key
+classification: string  -- see Description as bottom Section of this Doc
 
 ```
 
@@ -20,10 +20,10 @@ classification: string  -- see Description Section at Bottom of this Doc
  --  Node Table as replacement for neurons 
  
  id:   big integer  -- Primary Key
- x:    integer   	-- Spatio-coord Axe
- y:    integer  	-- Spatio-coord Axe
+ x:    integer      -- Spatio-coord Axe
+ y:    integer      -- Spatio-coord Axe
  z:    integer      -- Spatio-coord Axe
- tid:  integer  	-- Foreign Key to <Type id>
+ tid:  integer      -- Foreign Key to <Type id>
 ```
 
 
@@ -58,17 +58,19 @@ range:      integer -- Optional Value describing the area of influence
 
 ##	type definitions for classification String
 
- + pull                   Pulls an neighbored Impulse  
- + adjection              adjects an Impulse away  
- + translatoric:          an translative limit  
-   + propulsive           blocks Impulse till a propulsion occurs  
-   + generative		   Emitts an defined Impulse Intensity
- + accumulative:          definition of how several Impulses are joined  
-     + additive             joins two Impulse intensities  
-     + subtractive          differentiates two Impulse intensities  
- + duplicate              duplicates an Impulse to side Axon  
-     + spin left            spins a cloned Impulse to left  
-     + spin right           sounds a cloned Impulse to right  
+```
++ pull                    # pulls an neighbored Impulse  
+ + adjection              # adjects an Impulse away  
+ + translatoric:          # an translative limit  
+   + propulsive           # blocks Impulse till a propulsion occurs  
+   + generative           # emitts an defined Impulse Intensity
+ + accumulative:          # definition of how several Impulses are joined  
+     + additive           # joins two Impulse intensities  
+     + subtractive        # differentiates two Impulse intensities  
+ + duplicate              # duplicates an Impulse to side Axon  
+     + spin left          # spins a cloned Impulse to left  
+     + spin right         # sounds a cloned Impulse to right  
+```
 
 ---
 
