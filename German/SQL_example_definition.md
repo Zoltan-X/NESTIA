@@ -1,74 +1,167 @@
-# SQL definition
+# SQL example definition
 
-## type:  
+----
+
+## Type:  
+
+```SQL
+-- Table for specifications of node types 
+
+id: integer  			-- Primary Key
+classification: string  -- see Description Section at Bottom of this Doc
 
 ```
-   id: integer  
-   classification: string  
-```
 
-```
-control type classes:
-  pull                    # Pulls an neighbored impulse  
-  adjection               # adjects an Impulse away  
-  translatoric:           # an translative limit  
-    propulsive            # blocks impulse till a propulsion occurs  
-  accumulative:           # definition of how several impulses are joined  
-    additive              # joins two impulse intensities  
-    subtractive           # differentiates two impulse intensities  
-  duplicate               # duplicates an impulse to side branch  
-    spin left             # spins a cloned impulse to left  
-    spin right            # sounds a cloned impulse to right  
-```
 
-### deeper explanation of node controls:  
+
+## Node:  
+
+```SQL
+ --  Node Table as replacement for neurons 
  
-#### pull:   
+ id:   big integer  -- Primary Key
+ x:    integer   	-- Spatio-coord Axe
+ y:    integer  	-- Spatio-coord Axe
+ z:    integer      -- Spatio-coord Axe
+ tid:  integer  	-- Foreign Key to <Type id>
+```
 
- an impulse is pulled from its straight branch to a neighbor branch  
- 
+
+
+## Axon:   
+
+```SQL
+  -- Axon Table
+  Id:   big integer   -- Primary Key
+  nid1: big integer   -- Foreign Key to <Node ID> 
+  nid2: big integer   -- Foreign Key to <Node ID> 
+```
+
+
+
+## Impulse:   
+
+```SQL
+intensity:  integer -- Descriptive scalar Value of Impulse  
+range:      integer -- Optional Value describing the area of influence 
+```
+
+
+
+----
+
+## Explanations:
+
+-----
+
+
+
+##	type definitions for classification String
+
+ + pull                   Pulls an neighbored Impulse  
+ + adjection              adjects an Impulse away  
+ + translatoric:          an translative limit  
+   + propulsive           blocks Impulse till a propulsion occurs  
+   + generative		   Emitts an defined Impulse Intensity
+ + accumulative:          definition of how several Impulses are joined  
+     + additive             joins two Impulse intensities  
+     + subtractive          differentiates two Impulse intensities  
+ + duplicate              duplicates an Impulse to side Axon  
+     + spin left            spins a cloned Impulse to left  
+     + spin right           sounds a cloned Impulse to right  
+
+---
+
+
+
+ ## deeper explanation of node controls
+
+---
+
+#### pull:  
+
+An Impulse A is pulled  
+from its straight Axon  
+to a neighbor Axon  
+by being triggered  
+by an simultaneous Impulse B,  
+pulling Impulse A to its Axon away. 
+
+---
+
+
+
 #### adjection:     
 
- two impulses influence each other in the manor,  
- that an adjection effect occurs.  
- 
-#### translatoric propulsion:  
+Two Impulses influence each other in that manor,  
+as an adjection effect occurs.  
 
- until an defined limit isn't accumulated,   
- throughput is blocked.   
- 
-#### accumulative addition:   
+----
 
- two impulses are added in intensity together   
- 
-#### accumulative subtraction:   
 
- the impulse intensity of two serial impulses is differentiated.   
- this is mainly for:  
- feeling changes => evaluative emotions=> euphoria  
- these separate levels are about independent transmission types  
- 
+
+#### translatoric propulsion:
+
+Until an defined limit  
+isn't accumulated (in time),   
+Impulse throughput is blocked.   
+
+---
+
+
+
+#### translatoric generative:
+
+If an Impulse is reaching,  
+then it is translated in Intensity,   
+as those new Impulse (re)generates the Information.
+
+---
+
+
+
+#### accumulative addition:
+
+Two Impulses are added in intensity together,  
+and are mostly combined to a translatoric Propulsion.
+
+---
+
+
+
+#### accumulative subtraction:  
+
+The Impulse intensity  
+of two serial or  
+parallel Impulses  
+is differentiated.   
+This is mainly for:  
+
+*  L1:  "feeling changes" 
+*  L2:  "evaluative emotions" 
+*  L3:  "euphoria" or "disgusting pain"  
+
+These separate levels  
+are about to be used  
+by independent Node types and  
+for subconscious evaluation.
+(affective motivation Principles)
+
+---
+
+
+
 #### duplicate:  
 
-this use cases are  
+The use cases here are:
 
-A. for keeping an informative impulse formation,  
-  through circular movement active  
+A. For keeping an informative Impulse formation active    
+    by a circular movement active  
+
 B. Differentiation of serial Impulse flows  
+    in purposes of (sub)conscious evaluation.
 
-
-## node:  
-     id:   big integer   
-     x:    integer   
-     y:    integer  
-     z:    integer  
-     tid: <type id> integer  
- 
-## branch:   
-      Id:      big integer   
-      nid1:  <node ID> big integer   
-      nid2:  <node ID> big integer   
-      
-## Impulse:   
-    intensity:  integer   
-    range:      integer   
+Furthermore,  
+the spinning defines the information flow and  
+could be of use to  
+separate different flow types.
