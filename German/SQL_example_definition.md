@@ -9,6 +9,18 @@
 
 id: integer             -- Primary Key
 classification: string  -- see Description as bottom Section of this Doc
+pull:           boolean -- pulls an neighbored Impulse  
+adjection:      boolean -- adjects an Impulse away  
+-- translatoric:          # an translative behavior
+propulsive:     boolean -- blocks Impulse till a propulsion occurs  
+generative:     boolean -- emitts an defined Impulse Intensity
+diminish:       boolean -- diminishing impulses
+-- accumulative:          # definition of how several Impulses are joined  
+additive:       boolean -- joins two Impulse intensities  
+subtractive:    boolean -- differentiates two Impulse intensities  
+duplicate:      boolean -- duplicates an Impulse to side Axon  
+spin_left:      boolean -- spins an Impulse to left  
+spin_right:     boolean -- spins an Impulse to right  
 
 ```
 
