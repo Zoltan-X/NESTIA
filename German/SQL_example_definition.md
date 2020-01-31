@@ -8,7 +8,7 @@
 -- Table for specifications of node types 
 
 id: integer             -- Primary Key
-classification: string  -- see Description as bottom Section of this Doc
+classification: string  -- Description of Transmittergroup
 pull:           boolean -- pulls an neighbored Impulse  
 adjection:      boolean -- adjects an Impulse away  
 -- translatoric:          # an translative behavior
