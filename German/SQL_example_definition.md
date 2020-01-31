@@ -19,11 +19,12 @@ classification: string  -- see Description as bottom Section of this Doc
 ```SQL
  --  Node Table as replacement for neurons 
  
- id:   big integer  -- Primary Key
- x:    integer      -- Spatio-coord Axe
- y:    integer      -- Spatio-coord Axe
- z:    integer      -- Spatio-coord Axe
- tid:  integer      -- Foreign Key to <Type id>
+ id:     big integer  -- Primary Key
+ x:      integer      -- Spatio-coord Axe
+ y:      integer      -- Spatio-coord Axe
+ z:      integer      -- Spatio-coord Axe
+ range:  integer      -- Optional Value describing the area of influence 
+ tid:    integer      -- Foreign Key to <Type id>
 ```
 
 
@@ -42,8 +43,8 @@ classification: string  -- see Description as bottom Section of this Doc
 ## Impulse:   
 
 ```SQL
-intensity:  integer -- Descriptive scalar Value of Impulse  
-range:      integer -- Optional Value describing the area of influence 
+id:         integer  -- PRimary Key
+intensity:  integer  -- Descriptive scalar Value of Impulse  
 ```
 
 
