@@ -1,0 +1,748 @@
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 12.1
+-- Dumped by pg_dump version 12.1
+
+-- Started on 2020-01-31 23:46:52
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+SET default_tablespace = '';
+
+SET default_table_access_method = heap;
+
+--
+-- TOC entry 202 (class 1259 OID 16394)
+-- Name: type; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.type (
+    classification "char"[],
+    id integer NOT NULL,
+    pull boolean,
+    adjection boolean,
+    propulsion boolean,
+    generative boolean,
+    diminish boolean,
+    additive boolean,
+    subtractive boolean,
+    duplicate boolean,
+    spin_left boolean,
+    spin_right boolean
+);
+
+
+ALTER TABLE public.type OWNER TO postgres;
+
+--
+-- TOC entry 2873 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.classification; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.classification IS ' String for defining the Transmitter Group';
+
+
+--
+-- TOC entry 2874 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.id; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.id IS 'Primary Key';
+
+
+--
+-- TOC entry 2875 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.pull; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.pull IS 'pull behaviour flag';
+
+
+--
+-- TOC entry 2876 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.adjection; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.adjection IS 'adjection behavior';
+
+
+--
+-- TOC entry 2877 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.propulsion; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.propulsion IS 'translatoric propulsive behavior';
+
+
+--
+-- TOC entry 2878 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.generative; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.generative IS 'tralatoric generative behavior';
+
+
+--
+-- TOC entry 2879 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.diminish; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.diminish IS 'translatoric diminish behavior';
+
+
+--
+-- TOC entry 2880 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.additive; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.additive IS 'accumulative addition behavior';
+
+
+--
+-- TOC entry 2881 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.subtractive; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.subtractive IS 'accumulative subtraction behavior';
+
+
+--
+-- TOC entry 2882 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.duplicate; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.duplicate IS 'duplicates an Impulse to side Axon';
+
+
+--
+-- TOC entry 2883 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.spin_left; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.spin_left IS 'spins an Impulse to left';
+
+
+--
+-- TOC entry 2884 (class 0 OID 0)
+-- Dependencies: 202
+-- Name: COLUMN type.spin_right; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.type.spin_right IS 'spins an Impulse to right';
+
+
+--
+-- TOC entry 204 (class 1259 OID 16432)
+-- Name: Type_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public."Type_id_seq"
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public."Type_id_seq" OWNER TO postgres;
+
+--
+-- TOC entry 2885 (class 0 OID 0)
+-- Dependencies: 204
+-- Name: Type_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public."Type_id_seq" OWNED BY public.type.id;
+
+
+--
+-- TOC entry 207 (class 1259 OID 16465)
+-- Name: axon; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.axon (
+    id bigint NOT NULL,
+    node_id_source bigint NOT NULL,
+    node_id_dest bigint NOT NULL
+);
+
+
+ALTER TABLE public.axon OWNER TO postgres;
+
+--
+-- TOC entry 2886 (class 0 OID 0)
+-- Dependencies: 207
+-- Name: COLUMN axon.id; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.axon.id IS 'Primary Key';
+
+
+--
+-- TOC entry 2887 (class 0 OID 0)
+-- Dependencies: 207
+-- Name: COLUMN axon.node_id_source; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.axon.node_id_source IS 'fk to source node ID';
+
+
+--
+-- TOC entry 2888 (class 0 OID 0)
+-- Dependencies: 207
+-- Name: COLUMN axon.node_id_dest; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.axon.node_id_dest IS 'fk to destination node ID';
+
+
+--
+-- TOC entry 208 (class 1259 OID 16468)
+-- Name: axon_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.axon_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.axon_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 2889 (class 0 OID 0)
+-- Dependencies: 208
+-- Name: axon_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.axon_id_seq OWNED BY public.axon.id;
+
+
+--
+-- TOC entry 210 (class 1259 OID 16484)
+-- Name: axon_node_id_dest_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.axon_node_id_dest_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.axon_node_id_dest_seq OWNER TO postgres;
+
+--
+-- TOC entry 2890 (class 0 OID 0)
+-- Dependencies: 210
+-- Name: axon_node_id_dest_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.axon_node_id_dest_seq OWNED BY public.axon.node_id_dest;
+
+
+--
+-- TOC entry 209 (class 1259 OID 16477)
+-- Name: axon_node_id_source_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.axon_node_id_source_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.axon_node_id_source_seq OWNER TO postgres;
+
+--
+-- TOC entry 2891 (class 0 OID 0)
+-- Dependencies: 209
+-- Name: axon_node_id_source_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.axon_node_id_source_seq OWNED BY public.axon.node_id_source;
+
+
+--
+-- TOC entry 211 (class 1259 OID 16503)
+-- Name: impulse; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.impulse (
+    id bigint NOT NULL,
+    intensity integer
+);
+
+
+ALTER TABLE public.impulse OWNER TO postgres;
+
+--
+-- TOC entry 2892 (class 0 OID 0)
+-- Dependencies: 211
+-- Name: COLUMN impulse.id; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.impulse.id IS 'Primary Key';
+
+
+--
+-- TOC entry 2893 (class 0 OID 0)
+-- Dependencies: 211
+-- Name: COLUMN impulse.intensity; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.impulse.intensity IS 'Descriptive scalar Value of Impulse  ';
+
+
+--
+-- TOC entry 212 (class 1259 OID 16506)
+-- Name: impulse_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.impulse_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.impulse_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 2894 (class 0 OID 0)
+-- Dependencies: 212
+-- Name: impulse_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.impulse_id_seq OWNED BY public.impulse.id;
+
+
+--
+-- TOC entry 203 (class 1259 OID 16405)
+-- Name: node; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.node (
+    x integer,
+    y integer,
+    z integer,
+    id bigint NOT NULL,
+    tid integer NOT NULL,
+    range integer
+);
+
+
+ALTER TABLE public.node OWNER TO postgres;
+
+--
+-- TOC entry 2895 (class 0 OID 0)
+-- Dependencies: 203
+-- Name: COLUMN node.x; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.node.x IS 'Spatio-coord Axe';
+
+
+--
+-- TOC entry 2896 (class 0 OID 0)
+-- Dependencies: 203
+-- Name: COLUMN node.y; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.node.y IS 'Spatio-coord Axe';
+
+
+--
+-- TOC entry 2897 (class 0 OID 0)
+-- Dependencies: 203
+-- Name: COLUMN node.z; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.node.z IS 'Spatio-coord Axe';
+
+
+--
+-- TOC entry 2898 (class 0 OID 0)
+-- Dependencies: 203
+-- Name: COLUMN node.id; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.node.id IS 'Primary Key';
+
+
+--
+-- TOC entry 2899 (class 0 OID 0)
+-- Dependencies: 203
+-- Name: COLUMN node.tid; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.node.tid IS 'Foreign Key to <Type id>';
+
+
+--
+-- TOC entry 2900 (class 0 OID 0)
+-- Dependencies: 203
+-- Name: COLUMN node.range; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON COLUMN public.node.range IS '
+Optional Value describing the area of influence ';
+
+
+--
+-- TOC entry 205 (class 1259 OID 16441)
+-- Name: node_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.node_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.node_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 2901 (class 0 OID 0)
+-- Dependencies: 205
+-- Name: node_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.node_id_seq OWNED BY public.node.id;
+
+
+--
+-- TOC entry 206 (class 1259 OID 16447)
+-- Name: node_tid_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE public.node_tid_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.node_tid_seq OWNER TO postgres;
+
+--
+-- TOC entry 2902 (class 0 OID 0)
+-- Dependencies: 206
+-- Name: node_tid_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
+--
+
+ALTER SEQUENCE public.node_tid_seq OWNED BY public.node.tid;
+
+
+--
+-- TOC entry 2715 (class 2604 OID 16470)
+-- Name: axon id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.axon ALTER COLUMN id SET DEFAULT nextval('public.axon_id_seq'::regclass);
+
+
+--
+-- TOC entry 2716 (class 2604 OID 16479)
+-- Name: axon node_id_source; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.axon ALTER COLUMN node_id_source SET DEFAULT nextval('public.axon_node_id_source_seq'::regclass);
+
+
+--
+-- TOC entry 2717 (class 2604 OID 16486)
+-- Name: axon node_id_dest; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.axon ALTER COLUMN node_id_dest SET DEFAULT nextval('public.axon_node_id_dest_seq'::regclass);
+
+
+--
+-- TOC entry 2718 (class 2604 OID 16508)
+-- Name: impulse id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.impulse ALTER COLUMN id SET DEFAULT nextval('public.impulse_id_seq'::regclass);
+
+
+--
+-- TOC entry 2713 (class 2604 OID 16443)
+-- Name: node id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.node ALTER COLUMN id SET DEFAULT nextval('public.node_id_seq'::regclass);
+
+
+--
+-- TOC entry 2714 (class 2604 OID 16449)
+-- Name: node tid; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.node ALTER COLUMN tid SET DEFAULT nextval('public.node_tid_seq'::regclass);
+
+
+--
+-- TOC entry 2712 (class 2604 OID 16434)
+-- Name: type id; Type: DEFAULT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.type ALTER COLUMN id SET DEFAULT nextval('public."Type_id_seq"'::regclass);
+
+
+--
+-- TOC entry 2862 (class 0 OID 16465)
+-- Dependencies: 207
+-- Data for Name: axon; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.axon (id, node_id_source, node_id_dest) FROM stdin;
+\.
+
+
+--
+-- TOC entry 2866 (class 0 OID 16503)
+-- Dependencies: 211
+-- Data for Name: impulse; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.impulse (id, intensity) FROM stdin;
+\.
+
+
+--
+-- TOC entry 2858 (class 0 OID 16405)
+-- Dependencies: 203
+-- Data for Name: node; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.node (x, y, z, id, tid, range) FROM stdin;
+\.
+
+
+--
+-- TOC entry 2857 (class 0 OID 16394)
+-- Dependencies: 202
+-- Data for Name: type; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.type (classification, id, pull, adjection, propulsion, generative, diminish, additive, subtractive, duplicate, spin_left, spin_right) FROM stdin;
+\.
+
+
+--
+-- TOC entry 2903 (class 0 OID 0)
+-- Dependencies: 204
+-- Name: Type_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public."Type_id_seq"', 1, false);
+
+
+--
+-- TOC entry 2904 (class 0 OID 0)
+-- Dependencies: 208
+-- Name: axon_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.axon_id_seq', 1, false);
+
+
+--
+-- TOC entry 2905 (class 0 OID 0)
+-- Dependencies: 210
+-- Name: axon_node_id_dest_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.axon_node_id_dest_seq', 1, false);
+
+
+--
+-- TOC entry 2906 (class 0 OID 0)
+-- Dependencies: 209
+-- Name: axon_node_id_source_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.axon_node_id_source_seq', 1, false);
+
+
+--
+-- TOC entry 2907 (class 0 OID 0)
+-- Dependencies: 212
+-- Name: impulse_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.impulse_id_seq', 1, false);
+
+
+--
+-- TOC entry 2908 (class 0 OID 0)
+-- Dependencies: 205
+-- Name: node_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.node_id_seq', 1, false);
+
+
+--
+-- TOC entry 2909 (class 0 OID 0)
+-- Dependencies: 206
+-- Name: node_tid_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('public.node_tid_seq', 1, false);
+
+
+--
+-- TOC entry 2725 (class 2606 OID 16476)
+-- Name: axon axon_id; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.axon
+    ADD CONSTRAINT axon_id PRIMARY KEY (id);
+
+
+--
+-- TOC entry 2910 (class 0 OID 0)
+-- Dependencies: 2725
+-- Name: CONSTRAINT axon_id ON axon; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON CONSTRAINT axon_id ON public.axon IS 'Primary Key to <Axon id>';
+
+
+--
+-- TOC entry 2723 (class 2606 OID 16458)
+-- Name: node node_id; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.node
+    ADD CONSTRAINT node_id PRIMARY KEY (id);
+
+
+--
+-- TOC entry 2911 (class 0 OID 0)
+-- Dependencies: 2723
+-- Name: CONSTRAINT node_id ON node; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON CONSTRAINT node_id ON public.node IS 'Foreign Key to <Node id>';
+
+
+--
+-- TOC entry 2720 (class 2606 OID 16456)
+-- Name: type type_id; Type: CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.type
+    ADD CONSTRAINT type_id PRIMARY KEY (id);
+
+
+--
+-- TOC entry 2726 (class 1259 OID 16502)
+-- Name: fki_fk_node_id_dest; Type: INDEX; Schema: public; Owner: postgres
+--
+
+CREATE INDEX fki_fk_node_id_dest ON public.axon USING btree (node_id_dest);
+
+
+--
+-- TOC entry 2727 (class 1259 OID 16496)
+-- Name: fki_fk_node_id_source; Type: INDEX; Schema: public; Owner: postgres
+--
+
+CREATE INDEX fki_fk_node_id_source ON public.axon USING btree (node_id_source);
+
+
+--
+-- TOC entry 2721 (class 1259 OID 16464)
+-- Name: fki_fk_type_id; Type: INDEX; Schema: public; Owner: postgres
+--
+
+CREATE INDEX fki_fk_type_id ON public.node USING btree (tid);
+
+
+--
+-- TOC entry 2730 (class 2606 OID 16497)
+-- Name: axon fk_node_id_dest; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.axon
+    ADD CONSTRAINT fk_node_id_dest FOREIGN KEY (node_id_dest) REFERENCES public.node(id) NOT VALID;
+
+
+--
+-- TOC entry 2912 (class 0 OID 0)
+-- Dependencies: 2730
+-- Name: CONSTRAINT fk_node_id_dest ON axon; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON CONSTRAINT fk_node_id_dest ON public.axon IS 'fk to destination node ID';
+
+
+--
+-- TOC entry 2729 (class 2606 OID 16491)
+-- Name: axon fk_node_id_source; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.axon
+    ADD CONSTRAINT fk_node_id_source FOREIGN KEY (node_id_source) REFERENCES public.node(id) NOT VALID;
+
+
+--
+-- TOC entry 2913 (class 0 OID 0)
+-- Dependencies: 2729
+-- Name: CONSTRAINT fk_node_id_source ON axon; Type: COMMENT; Schema: public; Owner: postgres
+--
+
+COMMENT ON CONSTRAINT fk_node_id_source ON public.axon IS 'fk to source node ID';
+
+
+--
+-- TOC entry 2728 (class 2606 OID 16459)
+-- Name: node fk_type_id; Type: FK CONSTRAINT; Schema: public; Owner: postgres
+--
+
+ALTER TABLE ONLY public.node
+    ADD CONSTRAINT fk_type_id FOREIGN KEY (tid) REFERENCES public.type(id) NOT VALID;
+
+
+-- Completed on 2020-01-31 23:46:52
+
+--
+-- PostgreSQL database dump complete
+--
+
