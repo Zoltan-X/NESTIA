@@ -83,7 +83,8 @@ werden vom Autor, als dafür hilfreich erachtet.
       2. Das Sieb des Eratosthenes  
       3. [Nozizeptoren](https://de.m.wikipedia.org/wiki/Nozizeptor)
       4. [CREB Protein](https://de.wikipedia.org/wiki/CREB-1)  
-      5. ...  
+      5. [neuromorphe Prozessoren](https://de.wikipedia.org/wiki/Neuromorpher_Prozessor) 
+      6. ...  
    2. pubmed.nist.gov:  
       Amtliche, öffentlich zugängliche Sammlung  
       von medizinischen Forschungsberichten  
@@ -2463,14 +2464,11 @@ Dazu gehört auch das Stichwort: "Sensorische-Deprimation",
 welche eine sensorische Depression meint und  
 die Emulation sehr stark verfälschen würde.  
 
-Auch die von Intel angetriebene Entwicklung   
-von neuromorphen Prozessoren seit 2014,  
-verspricht aktuelle nur Erfolg  
-unter der Prämisse,  
-eines Paradigmenwechsels und  
-möchte echte Nervenzellen adaptieren,  
-da entsprechende neurmorphe Logiken   
-die klassischen prozessorbauweisen überfordern.  
+Auch die von Intel und anderen angetriebene Entwicklung   
+von [neuromorphen Prozessoren](https://de.wikipedia.org/wiki/Neuromorpher_Prozessor) seit etwa 2014,  
+verspricht aktuelle nur Erfolg unter der Prämisse,  
+eines Paradigmenwechsels und möchte echte Nervenzellen adaptieren,  
+da entsprechende neurmorphe Logiken die klassischen prozessorbauweisen überfordern.  
 
 Der Ansartz es der Natur gleich zu tun,  
 bescheinigt der Natur  
