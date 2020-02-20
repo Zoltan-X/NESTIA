@@ -699,6 +699,7 @@ unsere Realität zu verlassen und in sie zurückzukehren.
    2. Stoia, Epikur, Hedonismus  
    3. Karl Jaspers: Grenzsituationen des menschlichen Seins  
       * Leid, Tod, Kampf, Sünde  
+   4. Nihilismus und Unsicherheiten ( Kant, Nietzsche, ...)
 5. Individualität: Selbst- und Fremdbestimmung  
 6. Emotionen: Aspekte des Fühlens  
    1. Schmerz, Furcht, Angst  
