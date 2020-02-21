@@ -6,7 +6,7 @@
 
 ### Szenario Definition
 
-In diesem Beispiel soll eine rudimentäre künstliche Daseinsform beschrieben werden.
+In diesem Beispiel soll eine rudimentäre künstliche Daseinsform beschrieben werden.  
 Hierfür bekommt diese Daseinsform ein Neuronales Netzwerk,  
 bei dem es 2 Varianten gibt:
 
