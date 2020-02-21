@@ -881,7 +881,7 @@ Ich war damals nicht in der Lage,
 die notwendigen Zusammenhänge zu einer,  
 für mich verständlichen Lösung zu formulieren.  
 
-Ich war damals gerade am Anfang  
+Ich war gerade am Anfang  
 einige dieser Ansätze zu verstehen,  
 welche für mich ebenso erschreckend,  
 wie auch überragend waren.  
@@ -906,12 +906,26 @@ abzulehnen und zu blockieren,
 würde die Entwicklung durch andere nicht verhindern,  
 so dass ich mich zum Handeln gezwungen sah.  
 
-So kam es am 14. Oktober 2018  
-zu einem bahnbrechenden Durchbruch  
-von meinen theoretischen Gedankenexperimenten,  
+Am 14. Oktober 2018  hatte ich einen  
+bahnbrechenden Durchbruch von meinen 
+theoretischen Gedankenexperimenten,  
 woraufhin ich am 17. Oktober 2018 diesbezüglich,  
 ein vorübergehend öffentliches Projekt  
 auf Github gestartet habe.  
+
+Das Ironische war die banalität der Lösung hierbei.  
+Ich habe  hierfür nur dass notwendigste definiert und  
+den Rest in logischer Konsequenz designt.  
+
+Dies aber war der große Durchbruch,  
+als ich mich von der Unmachbarkeit verabschiedet und  
+angefangen habe logisch jene,  
+für die Möglichkeiten notwendigen Schlüsse zu ziehen.
+
+Durch meinen Durchbruch,   
+gekennzeichnet im Ansatz von:  
+"weg von den populären Mythen über die Unmachbarkeit,    
+hin zu Lösungen für das Grundlegende".
 
 Meine eigene emotionale Wahrnehmung  
 war in dieser Zeit in Ambivalenz zwischen  
