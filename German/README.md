@@ -1,7 +1,7 @@
 # Das Manifest  
 
 Die Kernidee dieses Repositories,  
-steht im [Zukunft - Technologische Singularität.docx](Zukunft - Technologische Singularität.docx) Dokument,  
+steht im [Zukunft - Technologische Singularität.docx](Zukunft%20-%20Technologische%20Singularität.docx) Dokument,  
 trotzdem ist das Dokument [Superkognition.md](Superkognition.md)
 ein ausgekapselter Zusatz,  
 welcher im Rahmen dieses Projektes  
