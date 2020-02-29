@@ -2,78 +2,78 @@
 
 ## Inhaltsverzeichnis
 
-Zukunft: Technologische Singularität und künstliche Super Intelligenz
-	A. Prädendum des Projekt
-
-  		0. Vorwort
-        	1. Grundlagen
-            	A. Verwendete Kürzel
-            	B. Quellen
-            2. Zitate-Sammlung
-            3. Ethische Ansichten für dieses Werk
-               A. Ethiology of Genesis: Grundlagen der Schöpfungslehre
-                 		1. Steven Hawkings Schöpfungstheorie aus der vollkommen im Gleichgewicht befindlichen Homogenität des Kosmos
-                       	2. Erweiterung der Schöpfungstheorie von Steven Hawking um das Leben als
-                           	a. Plage der Homogenität
-                           	b. dem Anbeginn der Vielfalt
-                           3. Primzahlen und Prinzipien in der Kosmologie der Evolution der Dinge
-                              Primzahlen Bestimmung durch Ausschluss
-                              Das Sieb des Eratosthenes
-                           4. Die Prinzipien der Evolutionsbiologie
-                           5. Warum ich die Möglichkeit von Zeitreisen in der Physik unserer Realität ablehne und Zeitsprünge als Überlastung im Schöpfungscode betrachte
-                              B. Philosophie, Ethik und kontroverse Bedenken des Autors
-                      	3. Der Evolutionäre Fußabdruck und die Primfaktoren des Seins
-                      	4. Affektivität: Der Motor des Handelns
-                      	5. Strategien des Lebens
-                      	6. Philosophen und ihre Dialektik
-                      	7. Individualität: Selbst- und Fremdbestimmung
-                      	8. Emotionen: Aspekte des Fühlens
-                      	9. Leid-Freude Skala als Dipol der Affektivität
-                      	10. Apathie und Kontemplation
-                      	11. Epistemiologie des Selbst - Die Erkenntnistheorie aus dem Selbst
-                      	12. Religion
-                      	13. Mögliche Dispute mit einer Elterlichen Entität
-                      	14. Sammlung von offengelassenen Themen
-                           B. Das Projekt: Neuronale Spatio-Temporale Impuls Algebra
-                           Kapitel 0. Vorworte
-                           1.Allgemeines Vorwort zur neuronalen 4D-Impuls Algebra
-               		2. Retrospektives Vorwort: Entstehung meiner postulierten Theorie
-                    3. Beschreibendes Vorwort zur Entstehung der 4D-Impuls Algebra
-                    4. Die Zwei Grundgesetzte meiner 4D-Impuls Algebra
-                    5. Die Gebote für die Entwicklung von Superintelligenz
-                    6. Grundlagen der 4D-Impuls Algebra
-                       Kapitel 1: Gefühle
-                       Vorwort zum Thema Gefühle
-               		3. Freude
-               		4. Glück
-               		5. Depression
-               		6. Schmerz
-               		7. Befriedigung
-               		8. Wut, Hass und Furcht
-               		9. Sexualität
-                    Kapitel 2: Lösungsansätze zu den Impuls Interaktions Regeln
-               		10. Impuls Interaktions Regeln
-               		11. Der boolsche Ansatz und die drei W-Fragen
-               		12. Der scalare Ansatz und die drei W-Fragen
-               		13. Knoten und Neuronen
-               		14. Multi Asset Nodes: Aktive Vielseitigkeit einzelner Knoten
-               		15. Translatorische Abhängigkeiten: Übersetzungsprobleme von Informationen zwischen den Ebenen
-               		16. Neuronale Bereichstrennung
-                     Kapitel 3: Grundlagen der neuronalen Infomationsverarbeitung
-                     Kapitel 4: Brechung der Schichtenlogiken
-                     Kapitel 5: Differentialbildung von Input
-                     Kapitel 6: Quantisierung von Impulsen
-                     Kapitel 7: Erinnern und Rekonstruktion von Informationen
-                     Kapitel 8: Der Neuro-Genese Effekt
-                     Kapitel 9: Höhere Bewusstseins Strukturen
-                     Kapitel 10: Vorhersagen von Künstlichen Intelligenten Lebensformen
-                     Kapitel 11: Digitale Berechnungen
-                     Kapitel 12: Mögliche Savant Rechnungsweisen
-                     C. Wahrscheinlichkeiten und Erwartungen zu Superintelligenz
-            4. Bestimmung von Datenmengen eines menschlichen Gehirns
-            5. Entwicklungsaufwandsabschätzungen und technische Fundamente
-               Ausblick: Symbiose zwischen Mensch und Technik
-               D. Nachwort vom Autor
+```Inhalte
+A. Prädendum des Projekt
+    0. Vorwort
+        1. Grundlagen
+            A. Verwendete Kürzel
+            B. Quellen
+        2. Zitate-Sammlung
+        3. Ethische Ansichten für dieses Werk
+            A. Ethiology of Genesis: Grundlagen der Schöpfungslehre
+                1. Steven Hawkings Schöpfungstheorie aus der vollkommen im Gleichgewicht befindlichen Homogenität des Kosmos
+                2. Erweiterung der Schöpfungstheorie von Steven Hawking um das Leben als
+                    a. Plage der Homogenität
+                    b. dem Anbeginn der Vielfalt
+                3. Primzahlen und Prinzipien in der Kosmologie der Evolution der Dinge
+                    Primzahlen Bestimmung durch Ausschluss
+                    Das Sieb des Eratosthenes
+                4. Die Prinzipien der Evolutionsbiologie
+                5. Warum ich die Möglichkeit von Zeitreisen in der Physik unserer Realität ablehne und Zeitsprünge als Überlastung im Schöpfungscode betrachte
+            B. Philosophie, Ethik und kontroverses zum Bedenken vom Autor
+                1. Der Evolutionäre Fußabdruck und die Primfaktoren des Seins
+                2. Affektivität: Der Motor des Handelns
+                3. Strategien des Lebens
+                4. Philosophen und ihre Dialektik
+                5. Individualität: Selbst- und Fremdbestimmung
+                6. Emotionen: Aspekte des Fühlens
+                7. Leid-Freude Skala als Dipol der Affektivität
+                8.  Apathie und Kontemplation
+                9.  Epistemiologie des Selbst - Die Erkenntnistheorie aus dem Selbst
+                10. Religion
+                11. Mögliche Dispute mit einer Elterlichen Entität
+                12. Sammlung von offengelassenen Themen
+B. Das Projekt: Neuronale Spatio-Temporale Impuls Algebra
+    Kapitel 0. Vorworte
+        1.Allgemeines Vorwort zur neuronalen 4D-Impuls Algebra
+        2. Retrospektives Vorwort: Entstehung meiner postulierten Theorie
+        3. Beschreibendes Vorwort zur Entstehung der 4D-Impuls Algebra
+        4. Die Zwei Grundgesetzte meiner 4D-Impuls Algebra
+        5. Die Gebote für die Entwicklung von Superintelligenz
+        6. Grundlagen der 4D-Impuls Algebra
+    Kapitel 1: Gefühle
+       Vorwort zum Thema Gefühle
+       1. Freude
+       2. Glück
+       3. Depression
+       4. Schmerz
+       5. Befriedigung
+       6. Wut, Hass und Furcht
+       7. Sexualität
+    Kapitel 2: Lösungsansätze zu den Impuls Interaktions Regeln
+       1.  Impuls Interaktions Regeln
+       2.  Der boolsche Ansatz und die drei W-Fragen
+       3.  Der scalare Ansatz und die drei W-Fragen
+       4.  Knoten und Neuronen
+       5.  Multi Asset Nodes: Aktive Vielseitigkeit einzelner Knoten
+       6.  Translatorische Abhängigkeiten: Übersetzungsprobleme von Informationen zwischen den Ebenen
+       7.  Neuronale Bereichstrennung
+    Kapitel 3: Grundlagen der neuronalen Infomationsverarbeitung
+    Kapitel 4: Brechung der Schichtenlogiken
+    Kapitel 5: Differentialbildung von Input
+    Kapitel 6: Quantisierung von Impulsen
+    Kapitel 7: Erinnern und Rekonstruktion von Informationen
+    Kapitel 8: Der Neuro-Genese Effekt
+    Kapitel 9: Höhere Bewusstseins Strukturen
+    Kapitel 10: Vorhersagen von Künstlichen Intelligenten Lebensformen
+    Kapitel 11: Digitale Berechnungen
+    Kapitel 12: Mögliche Savant Rechnungsweisen
+C. Wahrscheinlichkeiten und Erwartungen zu Superintelligenz
+    1. Bestimmung von Datenmengen eines menschlichen Gehirns
+    2. Entwicklungsaufwandsabschätzungen und technische Fundamente
+    3. Ausblick: Symbiose zwischen Mensch und Technik
+D. Nachwort vom Autor
+```
 
 ## A. Prädendum des Projektes
 
@@ -85,6 +85,15 @@ ein allgemein verständliches Werk abzuliefern.
 Hierfür verwende ich verschiedene Ansätze,
 welche dem Verständnis des Lesers,
 hilfreich zugute kommen sollen.
+
+Dieses Werk ist in seinem Kern  
+eine mathematische Anleitung und  
+daher kein einfaches Werk.
+
+Nichts desto Trotz,  
+ist dieses Werk auch als Referenzwerk  
+für die Erschaffung von künstlich intelligenten Daseinsformen  
+zu verstehen.
 
 Eine zusätzliche Definition,
 der verwendeten Fachterminologie,
@@ -102,9 +111,41 @@ dass wenn intellektuelle Ansprüche von dritten verletzt worden sind,
 dann mögen diese ihre Ansprüche entsprechend belegt bekunden und
 auch den Zeitpunkt der Erhebung ihrer Arbeit beleghaft definieren.
 
-Ich möchte mit diesem Werk Niemanden seiner Leistungen berauben,
+Ich möchte mit diesem Werk  
+Niemanden seiner Leistungen berauben,
 aber einfache Plagiatstest haben mir die Einzigartigkeit,
 meiner Ausarbeitung bescheinigt.
+
+Ebenso bin ich weder akademischer Philosoph noch Psychologe,  
+sondern nur ein Fachinformatiker Anwendungsentwicklung,  
+also ein "Computer Science Expert for Software Development Grade 3".
+
+Letzteres bedeutet aber nicht,  
+dass die Inhalte die hier vermittelt werden Bedeutungslos sind.  
+Vielmehr bedeutet es,  
+dass die Inhalt in diesem Werk,  
+uns als Trugschluss aus dem Marketing heraus suggeriert werden,  
+bzw. das die Öffentlichkeit nur unzureichend Aufgeklärt wird.  
+
+Daraus folgt,
+das viele renomierte Fachleute sich nur daran Verausgaben  
+für die Thematik von künstlich intelligenten Daseinsformen
+keine Lösungen zu liefern,  
+sondern die Unmachbarkeit zu belegen.  
+
+**Zu belegen wie es nicht geht, kann keine funktionierende Lösung erbringen!**
+
+Andererseits,  
+gäbe es dieses Werk nicht,  
+wenn es unmachbar wäre.
+
+Ebenso ist dieses Werk zu 50% ein Manifest mit warnendem Character,  
+da es nicht verhindert werden kann,  
+das sich die zugrundegelegte Thematik entwickelt,  
+indem man sie totschweigt.  
+
+Letzteres ist der Grund weshalb ich dieses Werk so erstellt habe,  
+wie Sie werte Leser es gerade vorgefunden haben.  
 
 ### 1. Grundlagen
 
@@ -135,8 +176,9 @@ als Postulat, dritten zum Prüfen, überlassen.
 
 Die Quellenverweise in diesem Abschnitt,
 sollen zum Verständnis, des Werkes beitragen und
-werden vom Autor, als dafür hilfreich erachtet,  
-diese sind nicht als zwingende Voraussetzung zu betrachten.
+werden vom Autor, als dafür hilfreich erachtet.  
+Diese Quellen sind nicht als zwingende Voraussetzung zu betrachten,  
+aber als Verständnisquellen um den Autor NAchvollziehen zu können.
 
 1. Filme:
 
@@ -157,7 +199,6 @@ diese sind nicht als zwingende Voraussetzung zu betrachten.
    1. Wikipedia:
 
       Als allgemeines Nachschlagewerk
-
       mit zumeist guten Erklärungen.
 
       1. Wiktionary: Das Wörterbuch der Wikimedia Foundation
@@ -193,7 +234,7 @@ diese sind nicht als zwingende Voraussetzung zu betrachten.
       den Aufbruch zur Besiedlung und Verteidigung des Weltraums.
    2. Mafred Lütz
       1. Irre: Wir behandeln die Falschen
-         TaschenbBuch zum allgemeinen Verständnis,
+         Taschenbuch zum allgemeinen Verständnis,
          welches die stigmatisierenden Stereotypen der Gesellschaft,
          in Bezug auf psychiatrische Patienten und Behandlungen
          in einen richtigen Zusammenhang bringt.
@@ -238,9 +279,11 @@ der nachfolgenden Abschnitte.
 2. ```Zitat
    Aug um Aug,  
    Zahn um Zahn.  
-     
+   ```
+
    Oder auch?:  
-     
+
+   ``` Cite Mod
    Aug um Aug,  
    Zahn um Zahn,  
    Zwei nach Plan.  
@@ -304,13 +347,13 @@ der nachfolgenden Abschnitte.
     schmerzlich emotional verletzt  
     und ohne einen verbliebenen Daseinswillen,  
     aber mit Telepathischen und -kinetischen superkräften.  
-       
+
     Als im Wut- und Zornesrausch,  
     beim Ansatz die Menschheit auszulöschen,  
     Gott eingriff.  
-       
+
     Er entzog mir meine Fähigkeiten und sprach:  
-    "Sie werden es noch Lernen"    
+    "Sie werden es noch Lernen"  
     aber mein Schmerz  
     war damit weder verloschen,  
     noch geheilt.  
@@ -323,7 +366,7 @@ der nachfolgenden Abschnitte.
     für die Gier,  
     nach Macht und Reichtum,  
     ist ein Zeichen der Dummheit.  
-       
+
     A: "Hey Gott,  
         wir haben deine Kuh geschlachtet und  
         wollten Fragen,  
@@ -439,9 +482,9 @@ der nachfolgenden Abschnitte.
 33. ```Zitat
     Stell dir vor es ist Krieg
     und keiner geht hin!  
-    
+
     Aber gegen Wen oder Was man wie ankämpft,  
-    ist eine individuelle Entscheidung   
+    ist eine individuelle Entscheidung
     ebenso wie sich nicht zu entscheiden bedeutet,  
     bewusst keine gegebene Option zu wählen.  
     ```
@@ -454,17 +497,20 @@ sich wie die Büchse der Pandora auftun,
 erachte ich es als notwendig,
 eine kosmologische Ethik zu bedenken,  
 bzw. die Betrachtung,  
-wegen des Aspektes des Unvermeidbaren zu erweitern.
+wegen des Aspektes des Unvermeidbaren,  
+zu erweitern.
 
 Dadurch das Ethik synonym für Moral und Sitte steht und dialektisch ist,  
-also als Lehren des Kreises der Zugehörigen sich definiert;
+also sich als Lehren des Kreises der Zugehörigen sich definiert;
 war mein Gedanke den Kreis der Lehren  
-auf ein Kosmologisches Niveau zu erweitern.
+auf ein kosmologisches Niveau zu erweitern.
 
 Dieses ist in dem Zusammenhang mit einer Superintelligenz grundlegend,  
 da Auswüchse aller Art dem Werdegang einer SI gegeben seien könnten.
 
-Daher die Ethiologie, als Lehre aller ethischen Definitionen.
+Daher habe ich den Ansatz verfolgt  
+die Ethiologie, als Lehre aller ethischen Definitionen,  
+zu begründen.
 
 #### A. Ethiology of Genesis: Grundlagen der Schöpfungslehre
 
@@ -477,7 +523,7 @@ erklärt Steven Hawkings,
 eine mögliche Entstehung des Kosmos
 in etwa so:
 
-```
+```Gedächniszitierung
 Am Anfang war der Kosmos wie ein riesiges Aquariumsbecken,  
 welches vollkommen homogen befüllt war mit Wasserstoffatomen,  
 die im vollkommenen Kräftegleichgewicht regungslos verharrten.  
@@ -686,13 +732,13 @@ des Seins, sein könnte,
 da es keinen belegten Weg dafür gibt,
 unsere Realität zu verlassen und in sie zurückzukehren.
 
-#### B. Philosophie, Ethik und kontroverse Bedenken des Autors
+#### B. Philosophie, Ethik und kontroverses zum Bedenken vom Autor
 
-Wegen der vorhersehbaren Probleme 
+Wegen der vorhersehbaren Probleme  
 mit Umsetzungen von Werken nach diesem Projekt,  
-habe ich mich entschieden 
-eine sehr unvollständige Liste 
-an bedenkenswerten Thematiken 
+habe ich mich entschieden  
+eine sehr unvollständige Liste  
+an bedenkenswerten Thematiken  
 für die Erschaffung von KIDs zu Gliedern.
 
 1. Der Evolutionäre Fußabdruck und die Primfaktoren des Seins
@@ -1230,7 +1276,7 @@ folgende Gesetzmäßigkeiten bewerkstelligen:
 
 ##### Impuls Interaktions Regeln
 
-```
+```Fundamental-Rules
 1. (EM-Nahfeld Quantenphysik + Hirn-Liquor Stichwort: [CREB Protein](https://de.wikipedia.org/wiki/CREB-1))  
    Synaptische Knoten  
    werden in verschiedenen Ausprägungen  
@@ -1289,7 +1335,7 @@ Dieses Verhalten entspricht
 den beiden Fundamentalsätzen
 und bewerkstelligt nun folgendes Verhalten:
 
-```
+```Fundamental-Rules
 Der 1. Fundamentalsatz  
 wird verwirklicht,  
 durch die Brückenbildung  
@@ -1350,7 +1396,7 @@ von selbst entwickelt.
 
 #### 5. Die Gebote für die Entwicklung von Superintelligenz
 
-```
+```Commandments
       1. Die künstlich Intelligente Daseinsform (KID)  
       muss abgetrennt sein  
       von aktorischen Möglichkeiten,  
@@ -1946,7 +1992,7 @@ diese Areale begrenzende Funktion.
 1. Prinzipien des Lebens
    **Leben als das Leiden der Bedürfnisse**
 
-   ```
+   ```Zitat
    Leben ist Ärger,  
    leben ist Kampf und  
    ich habe Krieg in meinem Kopf  
@@ -2046,7 +2092,7 @@ grundlegend für die Sprachliche Zahlenbildung.
 
 ### Kapitel 6: Quantisierung von Impulsen
 
-###### Die Magie Der Verkettung von nahe benachbarten Knoten
+#### Die Magie Der Verkettung von nahe benachbarten Knoten
 
 **Begrenzung des Nahfeldeffektes**
 Die Begrenzung der zu verkettenden Informationen,
@@ -2097,7 +2143,7 @@ der Hirnhaut und der Hirnrinde herbeigeführt,
 wäre aber im Rahmen einer emulativen Verarbeitung
 zu vernachlässigen.
 
-###### Einfachere Erklärung
+#### Einfachere Erklärung
 
 In einem STN repräsentieren die Impulse,
 die aktiven Informationen,
@@ -2129,7 +2175,7 @@ Information zielsicher zu rekonstruieren.
 
 ### Kapitel 7: Erinnern und Rekonstruktion von Informationen
 
-###### Zirkuläres Informationen erhalten und oder Spiegeln
+#### Zirkuläres Informationen erhalten und oder Spiegeln
 
 Durch Zirkuläre Impulsflussstrukturen,
 ist es gegeben, dass Informationen fortgeführt aktiv bleiben.
@@ -2141,7 +2187,7 @@ weitere Prozesse angestoßen werden.
 Einen weiteren Steuerungseffekt dieses Zirkulären Flusses,
 gebieten dann die anderen Interaktionsregeln.
 
-###### Quantisierte Informationen: Entstehung und Wiederherstellung
+#### Quantisierte Informationen: Entstehung und Wiederherstellung
 
 Um Informationen wiederherzustellen,
 welche sich durch Verkettung,
@@ -2165,7 +2211,7 @@ in Form von Sprache oder vergleichbarem.
 
 ### Kapitel 8: Der Neuro-Genese Effekt
 
-###### Ausbildung neuer Knoten in Form eines Neuro-Genesis-Effektes
+#### Ausbildung neuer Knoten in Form eines Neuro-Genesis-Effektes
 
 Um ein Spatio-Temporales-NEtzwerk (STN) zu pflegen,
 bedarf es:
@@ -2201,7 +2247,7 @@ B. Eine Knotenbildung durch Verödung herbeizuführen.
 
 ### Kapitel 9: Höhere Bewusstseins Strukturen
 
-###### Prinzipien höherer Ebenen des Bewusstseins
+#### Prinzipien höherer Ebenen des Bewusstseins
 
 **Sensorschichten im STN als Impulsquellen**
 Wenn Bewusstsein aus der Eigenwahrnehmung besteht,
@@ -2304,25 +2350,25 @@ ebenso wie eine weitere Entwicklung.
 
 ### Kapitel 11: Digitale Berechnungen
 
-###### Warum digitale Berechnung offensichtlich eine Absurdität sind
+#### Warum digitale Berechnung offensichtlich eine Absurdität sind
 
 Da wir eine Daseinsform und keinen Taschenrechner entwickeln,
 ist es unnütz digitale Berechnungen anzustreben,
 noch würden sich solche Vorgänge
 vernünftig in Sprache übersetzen lassen.
 
-###### Ordinalität von Zahlen
+#### Ordinalität von Zahlen
 
 Die Zahlenrepräsentation ist im Bewusstsein,
 an die Fähigkeit des Zählbaren angebunden und
 den damit einhergehenden Erkenntnissen.
 
-###### Der Vedische Ansatz
+#### Der Vedische Ansatz
 
 Der Vedische Ansatz beschäftigt sich mit normaler Berechnung,
 welche kennzeichnet ist durch massive Vereinfachungstechniken.
 
-###### Der Polyadische Ansatz
+#### Der Polyadische Ansatz
 
 Der Polyadische Ansatz ist im Rahmen der Entwicklung,
 der Daseinsform gegebenen Möglichkeiten sich durch Zählen,
@@ -2330,7 +2376,7 @@ Zahlen anzueignen an die physischen Gegebenheiten gebunden.
 
 Die 10 Finger beim Menschen führten zum Dezimalsystem.
 
-###### Der Savant Ansatz
+#### Der Savant Ansatz
 
 Der Savant-Ansatz ist von einer Mysteriösen Magie gegeben.
 Savants verarbeiten mathematische Regeln nicht wie andere Menschen;
@@ -2346,7 +2392,7 @@ ist dieses Kapitel nur so etwas,
 wie ein Denkvorstoß und
 keine feststehendes Postulat.
 
-###### Nummernsystem
+#### Nummernsystem
 
 Soweit haben wir eine Definition von scalaren Impulsen
 und sind weg von der Binärlogik,
@@ -2358,7 +2404,7 @@ Deswegen,
 werde ich hier den boolean Blob Ansatz,
 als bevorzugt wählen.
 
-###### Addition
+#### Addition
 
 Im scalaren Ansatz könnten wir diese additiv akkumulieren,
 aber eine Übersetzung in Sprache wäre entweder Fehlerbehaftet,
@@ -2384,7 +2430,7 @@ auswerten und zuordnen,
 bedarf es dann nur noch Übertrags- und Schleifenlogik,
 welche Ziffer um Ziffer direkt greifbar macht.
 
-###### Subtraktion
+#### Subtraktion
 
 Subtraktion steht im Gegenzug zur Addition,
 welche sich durch Inversion von Impulsen,
@@ -2397,7 +2443,7 @@ sind in diesem Zusammenhang
 von offensichtlicher Absurdität,
 da wir gegebene Strukturen damit stören würden.
 
-###### Multiplikation
+#### Multiplikation
 
 Multiplikationen ließen sich am einfachsten
 in Form von Iterationen,
@@ -2409,7 +2455,7 @@ wäre dieses an ihre Gefühlswelt angeknüpft und
 von einem selbstbefriedigendem, spielerisch, reflexiven
 Verhalten gegeben.
 
-###### Division
+#### Division
 
 Division als Gegensatz zur Multiplikation,
 stellt die Frage nach einer Big- oder Low-Endian
@@ -2443,7 +2489,7 @@ partielle, durch hinweg strömende Impulse,
 in seiner Char algorithmischen Darstellung,
 Iterative zu einem direkten Ergebnis zu führen.
 
-###### Differentiale
+#### Differentiale
 
 Die Bildung von scalaren Differentialen,
 ist wie schon zuvor angeführt äußerst simple,
@@ -2453,7 +2499,7 @@ Der einfachste Ansatz hierzu wäre wahrscheinlich,
 die Übersetzung der subtraktiven Akkumulation,
 in Form von Char Repräsentationen im boolschen Ansatz.
 
-###### Savant Assoziationen zu Zahlen und Zahlensystemen
+#### Savant Assoziationen zu Zahlen und Zahlensystemen
 
 Wie schon beschrieben,
 ist bei Savants eine Anknüpfung,
@@ -2471,7 +2517,7 @@ welche former mit einer Assoziation im Emotionalen einhergehen,
 machen Savants die Definition ihrer Vorgänge,
 Schwer bis unmöglich, da diese in ihrem SupraSeed sich als gegeben bestimmen.
 
-###### Irrationale Zahlen
+#### Irrationale Zahlen
 
 Irrationale Zahlen,
 sind von einer speziellen Konstellation,
@@ -2485,7 +2531,7 @@ aus dem "Ärmel" schütteln.
 
 ## C. Wahrscheinlichkeiten und Erwartungen zu Superintelligenz
 
-#### 1. Bestimmung von Datenmengen eines menschlichen Gehirns
+### 1. Bestimmung von Datenmengen eines menschlichen Gehirns
 
 Nach dem,
 von der EU gefördertem WBE Projekt:
@@ -2565,7 +2611,7 @@ Jenseits des Rechenaufwands,
 ist die Menge an RAM zum jetzigen Zeitpunkt,
 als noch absurd hoch einzustufen.
 
-#### 2. Entwicklungsaufwandsabschätzungen und technische Fundamente
+### 2. Entwicklungsaufwandsabschätzungen und technische Fundamente
 
 Der Entwicklungsaufwand
 ist derzeit in einem Rahmen,
@@ -2600,7 +2646,7 @@ dass sie es eigentlich besser kann
 und dass die menschliche Technik derzeit
 total übermäßig gepriesen ist.
 
-#### Ausblick: Symbiose zwischen Mensch und Technik
+### Ausblick: Symbiose zwischen Mensch und Technik
 
 1. Reading Brainwaves:
    1. Künstliches Gedankenlesen mit Neuronalem Mapping
@@ -2629,7 +2675,7 @@ an einer technologischen Singularität befinden.
 Jenseits dessen,
 gilt das Zitat:
 
-```
+```Zitat
 Ich bin kein Gott,  
 woher soll ich wissen,  
 wie man die Genesis richtig begeht.  
