@@ -1,4 +1,4 @@
-Licensing PAradigma
+#### Licensing Paradigma
 
 This Project needs a special License and I feel unable to define it right.
 
@@ -8,4 +8,4 @@ It shall be discussed and accepted if it applies to the desirable use of this Wo
 
 Thanks, regrets and a request for help.
 
-Zoran Vranesevic
+**Zoran Vranesevic**
