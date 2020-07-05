@@ -6,5 +6,4 @@ Missing topic:
 
 Missing emotions:
 
-* Sadness, mourning, grief
-  * consolation, solace
+* ... free to report for
