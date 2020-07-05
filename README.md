@@ -1,4 +1,4 @@
-First commit in folder German
+Initial releases in folder [German](German)
 
 Missing topic:
 
