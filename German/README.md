@@ -5,6 +5,6 @@ steht im [Zukunft - Technologische Singularität.pdf](Zukunft%20-%20Technologisc
 
 Ein Aufbau und eine Ausarbeitung,  
 von technischen Umsetzungen soll  
-durch das Manifestoide Dokument oben   
+durch das manifestoide Dokument oben   
 als vorbeschrieben erörtert sein und  
 als Denkanstoß erachtet werden. 
