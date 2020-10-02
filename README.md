@@ -1,14 +1,4 @@
 Initial releases in folder [German](German)
 
-Missing topic:
-
-* Chapter about psychic deseases
-  * traumata
-  * psychotic deceases
-  * obsessive deceases
-  * Partial Dendrit transmitters depletion and nervous diseases in certain circumstances.
-  * instabilities of neurotransmitter ballances
-  
-  
-* Missing emotions:
-  * ... free to report for
+May all your wishes come true!, and 
+may all the things you wish others happen to you twice!
